@@ -3,11 +3,11 @@ Alexandru GRIGORE
 
 ## Personal information
 
-Location:	Romania, Bucharest
+**Location**:	Romania, Bucharest
 
-Phone:	+40752076996
+**Phone**:	+40752076996
 
-E-mail:	[alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
+**E-mail**:	[alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
 
 ## Objectives
 
@@ -74,10 +74,10 @@ new project types and I become passionate very quickly.
 
 - **Junior Scala Developer, Brainlight, 2014.July – 2015.September** 
     - **DarZar** – crawler, scrapper, extractor, advertising, aggregation, search 
-    - Project description: Darzar indexes products from any existing e-shop and lets the user search, filter and know when a price changes. ([http://darzar.com](http://darzar.com/)) 
-    - Roles: design, development, integrator 
-    - Roles description: I was a front-end and back-end developer at Darzar. I developed in every area of the project, from the website UI, to the database management and the algorithms that are not directly correlated to the website. 
-    - Achievements: I have reduced the site's bounce rate by 50-60%. 
+    - **Project description:** Darzar indexes products from any existing e-shop and lets the user search, filter and know when a price changes. ([http://darzar.com](http://darzar.com/)) 
+    - **Roles:** design, development, integrator 
+    - **Roles description:** I was a front-end and back-end developer at Darzar. I developed in every area of the project, from the website UI, to the database management and the algorithms that are not directly correlated to the website. 
+    - **Achievements:** I have reduced the site's bounce rate by 50-60%. 
 
 ## Personal/School Projects:
 
@@ -141,11 +141,9 @@ National College High school “Alexandru Odobescu” Pitesti, Computer Sciences
 
 - **Interests** 
 
-**Professional:** functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design
+    - **Professional:** functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design
 
-**Personal:** literature, psychology, martial arts, cycling, SF, technology
+    - **Personal:** literature, psychology, martial arts, cycling, SF, technology
 
-- **Job oportunities** I am interested in an IT Software Full Time job with flexible hours. 
-- **Mobility** 
-
-I am not ready to relocate in order to get a job, because of my ongoing studies. I'm comfortable with business trips.
+- **Job oportunities:** I am interested in an IT Software Full Time job with flexible hours. 
+- **Mobility:** I am not ready to relocate in order to get a job, because of my ongoing studies. I'm comfortable with business trips.
