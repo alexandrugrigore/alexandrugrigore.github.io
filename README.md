@@ -1,2 +1,0 @@
-# alexugoku.github.io
-CV
