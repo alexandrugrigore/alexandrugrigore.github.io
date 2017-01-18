@@ -1,4 +1,5 @@
 Alexandru GRIGORE
+======
 
 ## Personal information
 
@@ -6,17 +7,14 @@ Location:	Romania, Bucharest
 
 Phone:	+40752076996
 
-E-mail:	
-
-[a](mailto:raisercostin@gmail.com)
-
-lexandru.grig@gmail.com
+E-mail:	[alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
 
 ## Objectives
 
 Mastering functional programming in Scala, and eventually becoming a software architect.
 
-I'm always looking for a challenge, open to new technologies, tools, and development styles, new project types and I become passionate very quickly.
+I'm always looking for a challenge, open to new technologies, tools, and development styles, 
+new project types and I become passionate very quickly.
 
 ## Main Skills
 
@@ -105,67 +103,11 @@ I'm always looking for a challenge, open to new technologies, tools, and develop
 
  
 
-**Language**
-
- 
-
-**Reading**
-
- 
-
-**Speaking**
-
- 
-
-**Writing**
-
- 
-
-English
-
- 
-
-5 / 5
-
- 
-
-5 / 5
-
- 
-
-5 / 5
-
- 
-
-French
-
- 
-
-3 / 5
-
- 
-
-2 / 5
-
- 
-
-2 / 5
-
- 
-
-Romanian
-
- 
-
-5 / 5
-
- 
-
-5 / 5
-
- 
-
-5 / 5
+**Language** | **Reading** | **Speaking** | **Writing**
+-------------|-------------|--------------|-----------|
+English | 5 / 5 | 5 / 5 | 5 / 5
+French | 3 / 5 | 2 / 5 | 2 / 5
+Romanian | 5 / 5 | 5 / 5 | 5 / 5
 
 ## Education:
 
@@ -190,7 +132,7 @@ National College High school “Alexandru Odobescu” Pitesti, Computer Sciences
 - **Online presence** 
     - GitHub - 
 
-[https://github.com/alexugoku](https://github.com/alexugoku) 
+[https://github.com/alexandrugrigore](https://github.com/alexandrugrigore) 
     - Goodreads - 
 
 [http://www.goodreads.com/alexugoku](http://www.goodreads.com/alexugoku) 
