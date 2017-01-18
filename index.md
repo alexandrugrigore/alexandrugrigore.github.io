@@ -35,7 +35,7 @@ new project types and I become passionate very quickly.
     - Agile, Scrum 
 
 - **Technology Stack** 
-    - **G****eneral**: Scala, Java 
+    - **General**: Scala, Java 
     - **Web**: Play Framework, Bootstrap, HTML5, CSS3, GWT, ScalaJS, JavaScript, jQuery 
     - **Desktop:** Swing 
     - **OS**: Windows, Linux 
@@ -99,9 +99,7 @@ new project types and I become passionate very quickly.
 - **Regional/Interregional contest “e – LITERA”** 
     - I coordinated the technical team, and have been main programmer in this project written in Visual Basic. 
 
-## Language skills:
-
- 
+## Language skills: 
 
 **Language** | **Reading** | **Speaking** | **Writing**
 -------------|-------------|--------------|-----------|
@@ -130,12 +128,8 @@ National College High school “Alexandru Odobescu” Pitesti, Computer Sciences
 ## Self-Portrait
 
 - **Online presence** 
-    - GitHub - 
-
-[https://github.com/alexandrugrigore](https://github.com/alexandrugrigore) 
-    - Goodreads - 
-
-[http://www.goodreads.com/alexugoku](http://www.goodreads.com/alexugoku) 
+    - [GitHub](https://github.com/alexandrugrigore) 
+    - [Goodreads](http://www.goodreads.com/alexugoku) 
 
 - **Characteristics** 
     - self-appraisal capacity 
