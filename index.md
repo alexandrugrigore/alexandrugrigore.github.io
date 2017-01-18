@@ -140,10 +140,8 @@ National College High school “Alexandru Odobescu” Pitesti, Computer Sciences
     - analytical capacity 
 
 - **Interests** 
-
-    - **Professional:** functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design
-
-    - **Personal:** literature, psychology, martial arts, cycling, SF, technology
+    - **Professional:** functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design 
+    - **Personal:** literature, psychology, martial arts, cycling, SF, technology 
 
 - **Job oportunities:** I am interested in an IT Software Full Time job with flexible hours. 
-- **Mobility:** I am not ready to relocate in order to get a job, because of my ongoing studies. I'm comfortable with business trips.
+- **Mobility:** I am not ready to relocate in order to get a job, because of my ongoing studies. I'm comfortable with business trips. 
