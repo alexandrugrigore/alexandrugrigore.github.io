@@ -35,11 +35,11 @@ new project types and I become passionate very quickly.
     - Agile, Scrum 
 
 - **Technology Stack** 
-    - **General**: Scala, Java 
+    - **General**: Scala, Java, Java 8
     - **Web**: Play Framework, Bootstrap, HTML5, CSS3, GWT, ScalaJS, JavaScript, jQuery 
     - **Desktop:** Swing 
     - **OS**: Windows, Linux 
-    - **Tools**: SBT, Maven, Eclipse, IntelliJ, Netbeans, Subversion/Git, Regex, Jira 
+    - **Tools**: Heroku, SBT, Maven, Eclipse, IntelliJ, Netbeans, Subversion/Git, Regex, Jira 
     - **Testing:** JUnit (Java), Specification (Scala), RMI (Test automation) 
 
 ## Other Skills
@@ -55,22 +55,23 @@ new project types and I become passionate very quickly.
     - UML description 
 
 - **Technology Stack** 
-    - **General**: C, C++, Python, SQL, PHP 
+    - **General**: Python, SQL, PHP, C, C++ 
     - **Web**: Django 
 
 ## Experience:
 
 - **Junior Java Developer, Luxoft Romania, 2015.November – present** 
-    - **HTML5 Web Interface for Hirschmann devices (4 months)** 
-        - **Project description:** Replace the old Java applet-based web interface with HTML5 
-        - **Roles:** development, integrator, refactoring 
-        - **Roles description:** I was a front-end developer, creating the website UI, using SNMP to retrieve data, making validations and using thread-safe methods to allow multiple users configure devices, and also helped in the creation of the framework used. 
-        - **Training role:** I helped other newly assigned team members to the project, to setup the environment, how the task assignment works, explain the framework, and explain the best practices. 
-
     - **Industrial HiVision (present)** 
         - **Project description:** Desktop application for configuring/managing the network and the devices in the network 
-        - **Roles:** development, integrator, refactoring, bugfixing, testing 
-        - **Roles description:** I am a front-end and back-end developer for this application, making new features, bugfixing, testing, and creating documentation. 
+        - **Roles:** development, integrator, refactoring, bugfixing, testing, automated testing
+        - **Roles description:** I am a front-end and back-end developer for this application, making new features, bugfixing, testing, automated testing and creating documentation. I also create new tools that help the whole team, like helpers for testing.
+        - **Training role:** I helped new colleagues get acquainted with the application, the building process, the development process, SCRUM methodology, and other points that helped them get started.
+
+    - **HTML5 Web Interface for Hirschmann devices (4 months)** 
+        - **Project description:** Replace the old Java applet-based web interface with HTML5 
+        - **Roles:** development, integrator, refactoring 
+        - **Roles description:** I was a front-end developer, creating the website UI, using SNMP to retrieve data, making validations and using thread-safe methods to allow multiple users configure devices, and also helped in the creation of the framework used. 
+        - **Training role:** I helped other newly assigned team members to the project, to setup the environment, how the task assignment works, explain the framework, and explain the best practices. 
 
 - **Junior Scala Developer, Brainlight, 2014.July – 2015.September** 
     - **DarZar** – crawler, scrapper, extractor, advertising, aggregation, search 
@@ -81,14 +82,17 @@ new project types and I become passionate very quickly.
 
 ## Personal/School Projects:
 
+- **Chore Buddy**
+    - I am currently developing an application that easily keeps track of your household tasks, managing them with other users.
+
 - **PolygonGame** 
     - I have developed a mini-game in Scala-JS, which makes use of computational geometry. It has useful independent classes for geometry. 
 
 - **WebAppStore** 
-    - I have developed an application that detects mobile-friendly sites (responsive, mobile sites) and rankes them, in order to make a mobile app (Android/iOS) from which you can “install” sites as if they were stand-alone mobile applications. 
+    - I have developed an application that detects mobile-friendly sites (responsive, mobile sites) and ranks them, in order to make a mobile app (Android/iOS) from which you can “install” sites as if they were stand-alone mobile applications. 
 
 - **Informatics Certificate** 
-    - I single-handedly built the milestone of highschool projects, the Informatics Certificate was based on web page building and design (HTML, CSS and JavaScript), combined with Microsoft Office (Access) and Visual Fox Pro. 
+    - I single-handedly built the milestone of high-school projects, the Informatics Certificate was based on web page building and design (HTML, CSS and JavaScript), combined with Microsoft Office (Access) and Visual Fox Pro. 
 
 - **MoneySense for youth** 
     - I was the technical coordinator in my team\'s entrepreneurial project, in which I used HTML, CSS, JavaScript, Microsoft Office. 
@@ -141,7 +145,7 @@ National College High school “Alexandru Odobescu” Pitesti, Computer Sciences
 
 - **Interests** 
     - **Professional:** functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design 
-    - **Personal:** literature, psychology, martial arts, cycling, SF, technology 
+    - **Personal:** literature, psychology, martial arts, cycling, SF, technology 
 
-- **Job oportunities:** I am interested in an IT Software Full Time job with flexible hours. 
+- **Job opportunities:** I am interested in an IT Software Full Time job with flexible hours. 
 - **Mobility:** I am not ready to relocate in order to get a job, because of my ongoing studies. I'm comfortable with business trips. 
