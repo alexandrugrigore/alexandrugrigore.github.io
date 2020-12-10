@@ -3,11 +3,11 @@ Alexandru GRIGORE
 
 ## Personal information
 
-**Location**:	Romania, Bucharest
+**Location**:  Romania, Bucharest
 
-**Phone**:	+40752076996
+**Phone**:     +40752076996
 
-**E-mail**:	[alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
+**E-mail**:    [alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
 
 ## Objectives
 
@@ -15,22 +15,22 @@ My objective is mastering functional programming in Scala, and as a long-term go
 
 I’m always looking for a challenge, open to new technologies, tools, development styles, new project types and I become passionate very quickly. 
 
-## Main Skills
+## Skills
 
 - **Roles** 
-	- Back-end Developer 
-	
+    - Back-end Developer 
+    
 - **Project Types and/or Industry** 
-	- Telecom
-	- BigData
+    - Telecom
+    - BigData
     - Scraping, Crawling
 
 - **Development Style** 
     - Objectual/Functional Programming Paradigms 
-	- Develop fast until it works (POC), optimize after (refactor)
+    - Develop fast until it works (POC), optimize after (refactor)
     - Refactoring, Design Patterns, Modularization
     - Test/Behavior Driven Development (TDD, BDD) 
-	- Pair Programming 
+    - Pair Programming 
     - Agile, Scrum 
 
 - **Technology Stack** 
@@ -42,10 +42,10 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Testing:** JUnit (Java), Specification, ScalaTest (Scala)
 
 - **Other Skills** 
-	- Front-end Developer
+    - Front-end Developer
     - Tester (manual/automation) 
     - Dictionaries 
-	- Indexing, Data Extractors, Actors, Parallelism, Searching 
+    - Indexing, Data Extractors, Actors, Parallelism, Searching 
     - Networking 
     - Web (E-commerce)
     - Other tech: SQL, CSS, jQuery, Python, C# 
@@ -54,10 +54,10 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 - **Software Development Engineer, Orange Services, 2017.November – present** 
     - **Project description:** I am currently working on various projects involving Big Data, using Scala (rarely Java) and Spark for development.
-	Other non-development tools I use include SQL (Hive, Impala), Kafka, YARN, HDFS, Hue, bash and Cloudera as a management tool. 
+    Other non-development tools I use include SQL (Hive, Impala), Kafka, YARN, HDFS, Hue, bash and Cloudera as a management tool. 
     - **Roles:** development, design, refactoring, devops
     - **Roles description:** I am mainly a developer for various bigdata projects, but a lot of my work also involves SQL (mainly not relational), devops/scripting for some tasks that can be easily automated, managing/configuring the cluster (in Cloudera or direcly on the machine). 
-	
+
 - **Junior Java Developer, Luxoft Romania, 2015.November – 2017.November** 
     - **Industrial HiVision (until end)** 
         - **Project description:** Desktop application for configuring/managing the network and the devices in the network 
@@ -82,12 +82,12 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 - **SoulKey game**
     - I am currently developing a music related puzzle-platformer game. The development is done as two separate projects/modules.
-	One is the game itself, developed in Unity/C#, plus all the related work that must be put in a game (assets, story, art, music, game mechanics, monetization ideas just to name a few).
-	The other module is the core of the game, which for now is developed in Scala, and uses midi input for various functions in the game. This, when done, can also be released separately as a learning tool for begginer (and in the future advanced) musicians.
+    - One is the game itself, developed in Unity/C#, plus all the related work that must be put in a game (assets, story, art, music, game mechanics, monetization ideas just to name a few).
+    - The other module is the core of the game, which for now is developed in Scala, and uses midi input for various functions in the game. This, when done, can also be released separately as a learning tool for begginer (and in the future advanced) musicians.
 
 - **Various projects in high-school, university and after** 
     - This section is for highlighting my passion for programming throught the years, even if not the tech was not frutified in jobs
-	- minigame in Scala-JS, mobile apps in Android/iOS/Xamarin, windows app in Visual Fox Pro + MS Access, a lot of sites in HTML, CSS, JavaScript
+    - minigame in Scala-JS, mobile apps in Android/iOS/Xamarin, windows app in Visual Fox Pro + MS Access, a lot of sites in HTML, CSS, JavaScript
 
 ## Education:
 
@@ -101,7 +101,7 @@ I have no problem in talking more about this aspect in person.
 ## Self-Portrait
 
 - **Online presence** 
-	- [stackoverflow](https://stackoverflow.com/users/3000244/shikkou)
+    - [stackoverflow](https://stackoverflow.com/users/3000244/shikkou)
     - [goodreads](http://www.goodreads.com/alexugoku) 
 
 - **Characteristics** 
