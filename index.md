@@ -19,7 +19,7 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 - **Roles** 
 	- Back-end Developer 
-
+	
 - **Project Types and/or Industry** 
 	- Telecom
 	- BigData
@@ -41,20 +41,14 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Tools**: Subversion/Git, Regex, Jira, Heroku, Maven, SBT, IntelliJ, Eclipse, Netbeans 
     - **Testing:** JUnit (Java), Specification, ScalaTest (Scala)
 
-## Other Skills
-
-- **Roles** 
+- **Other Skills** 
 	- Front-end Developer
     - Tester (manual/automation) 
-
-- **Project Types and/or Industry** 
     - Dictionaries 
 	- Indexing, Data Extractors, Actors, Parallelism, Searching 
     - Networking 
     - Web (E-commerce)
-
-- **Technology Stack** 
-    - **General**: SQL, CSS, jQuery, Python, C# 
+    - Other tech: SQL, CSS, jQuery, Python, C# 
 
 ## Experience:
 
@@ -107,8 +101,8 @@ I have no problem in talking more about this aspect in person.
 ## Self-Portrait
 
 - **Online presence** 
-	- [stackoverflow] (https://stackoverflow.com/users/3000244/shikkou)
-    - [Goodreads](http://www.goodreads.com/alexugoku) 
+	- [stackoverflow](https://stackoverflow.com/users/3000244/shikkou)
+    - [goodreads](http://www.goodreads.com/alexugoku) 
 
 - **Characteristics** 
     - self-appraisal capacity 
