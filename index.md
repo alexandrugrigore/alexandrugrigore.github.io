@@ -11,57 +11,61 @@ Alexandru GRIGORE
 
 ## Objectives
 
-Mastering functional programming in Scala, and eventually becoming a software architect.
+My objective is mastering functional programming in Scala, and as a long-term goal, becoming a software architect.
 
-I'm always looking for a challenge, open to new technologies, tools, and development styles, 
-new project types and I become passionate very quickly.
+I’m always looking for a challenge, open to new technologies, tools, development styles, new project types and I become passionate very quickly. 
 
 ## Main Skills
 
 - **Roles** 
-    - Front-end Developer 
-    - Back-end Developer 
+	- Back-end Developer 
 
 - **Project Types and/or Industry** 
-    - Scraping, Crawling, Indexing, Data Extractors, Actors, Parallelism, Searching 
-    - Networking 
-    - Web (E-commerce) 
-    - Algorithms 
+	- Telecom
+	- BigData
+    - Scraping, Crawling
 
 - **Development Style** 
     - Objectual/Functional Programming Paradigms 
-    - Refactoring, Design Patterns 
+	- Develop fast until it works (POC), optimize after (refactor)
+    - Refactoring, Design Patterns, Modularization
     - Test/Behavior Driven Development (TDD, BDD) 
+	- Pair Programming 
     - Agile, Scrum 
 
 - **Technology Stack** 
     - **General**: Scala, Java, Java 8
-    - **Web**: Play Framework, Bootstrap, HTML5, CSS3, GWT, ScalaJS, JavaScript, jQuery 
+    - **Web**: Play Framework, Bootstrap, HTML, JavaScript
     - **Desktop:** Swing 
     - **OS**: Windows, Linux 
-    - **Tools**: Heroku, SBT, Maven, Eclipse, IntelliJ, Netbeans, Subversion/Git, Regex, Jira 
-    - **Testing:** JUnit (Java), Specification (Scala), RMI (Test automation) 
+    - **Tools**: Subversion/Git, Regex, Jira, Heroku, Maven, SBT, IntelliJ, Eclipse, Netbeans 
+    - **Testing:** JUnit (Java), Specification, ScalaTest (Scala)
 
 ## Other Skills
 
 - **Roles** 
+	- Front-end Developer
     - Tester (manual/automation) 
 
 - **Project Types and/or Industry** 
     - Dictionaries 
-
-- **Development Style** 
-    - Pair Programming 
-    - UML description 
+	- Indexing, Data Extractors, Actors, Parallelism, Searching 
+    - Networking 
+    - Web (E-commerce)
 
 - **Technology Stack** 
-    - **General**: Python, SQL, PHP, C, C++ 
-    - **Web**: Django 
+    - **General**: SQL, CSS, jQuery, Python, C# 
 
 ## Experience:
 
-- **Junior Java Developer, Luxoft Romania, 2015.November – present** 
-    - **Industrial HiVision (present)** 
+- **Software Development Engineer, Orange Services, 2017.November – present** 
+    - **Project description:** I am currently working on various projects involving Big Data, using Scala (rarely Java) and Spark for development.
+	Other non-development tools I use include SQL (Hive, Impala), Kafka, YARN, HDFS, Hue, bash and Cloudera as a management tool. 
+    - **Roles:** development, design, refactoring, devops
+    - **Roles description:** I am mainly a developer for various bigdata projects, but a lot of my work also involves SQL (mainly not relational), devops/scripting for some tasks that can be easily automated, managing/configuring the cluster (in Cloudera or direcly on the machine). 
+	
+- **Junior Java Developer, Luxoft Romania, 2015.November – 2017.November** 
+    - **Industrial HiVision (until end)** 
         - **Project description:** Desktop application for configuring/managing the network and the devices in the network 
         - **Roles:** development, integrator, refactoring, bugfixing, testing, automated testing
         - **Roles description:** I am a front-end and back-end developer for this application, making new features, bugfixing, testing, automated testing and creating documentation. I also create new tools that help the whole team, like helpers for testing.
@@ -82,70 +86,40 @@ new project types and I become passionate very quickly.
 
 ## Personal/School Projects:
 
-- **Chore Buddy**
-    - I am currently developing an application that easily keeps track of your household tasks, managing them with other users.
+- **SoulKey game**
+    - I am currently developing a music related puzzle-platformer game. The development is done as two separate projects/modules.
+	One is the game itself, developed in Unity/C#, plus all the related work that must be put in a game (assets, story, art, music, game mechanics, monetization ideas just to name a few).
+	The other module is the core of the game, which for now is developed in Scala, and uses midi input for various functions in the game. This, when done, can also be released separately as a learning tool for begginer (and in the future advanced) musicians.
 
-- **PolygonGame** 
-    - I have developed a mini-game in Scala-JS, which makes use of computational geometry. It has useful independent classes for geometry. 
-
-- **WebAppStore** 
-    - I have developed an application that detects mobile-friendly sites (responsive, mobile sites) and ranks them, in order to make a mobile app (Android/iOS) from which you can “install” sites as if they were stand-alone mobile applications. 
-
-- **Informatics Certificate** 
-    - I single-handedly built the milestone of high-school projects, the Informatics Certificate was based on web page building and design (HTML, CSS and JavaScript), combined with Microsoft Office (Access) and Visual Fox Pro. 
-
-- **MoneySense for youth** 
-    - I was the technical coordinator in my team\'s entrepreneurial project, in which I used HTML, CSS, JavaScript, Microsoft Office. 
-
-- **Junior Achievement** 
-    - I coordinated the technical team of this entrepreneurial project, and have been main programmer in this project. I also made a model in Google SketchUp and AutoCAD. 
-
-- **Regional/Interregional contest “e – LITERA”** 
-    - I coordinated the technical team, and have been main programmer in this project written in Visual Basic. 
-
-## Language skills: 
-
-**Language** | **Reading** | **Speaking** | **Writing**
--------------|-------------|--------------|-----------|
-English | 5 / 5 | 5 / 5 | 5 / 5
-French | 3 / 5 | 2 / 5 | 2 / 5
-Romanian | 5 / 5 | 5 / 5 | 5 / 5
+- **Various projects in high-school, university and after** 
+    - This section is for highlighting my passion for programming throught the years, even if not the tech was not frutified in jobs
+	- minigame in Scala-JS, mobile apps in Android/iOS/Xamarin, windows app in Visual Fox Pro + MS Access, a lot of sites in HTML, CSS, JavaScript
 
 ## Education:
 
-- **Bachelor Degree**** ****in Computer Science** (2015 – 2018) 
+- **University of Bucharest, Computer Sciences, Informatics, not finished** (2013 – 2015) 
 
-University of Bucharest, Computer Sciences, Informatics
+Even though I did not finish college, my 2 years of studying were very useful, and helped me to better understand what I want, what to study on my own time, and diving deep into subjects that are useful for me and my career.
+I have no problem in talking more about this aspect in person.
 
-- **Baccalaureate Diploma** (2008 – 2012) 
-
-National College High school “Alexandru Odobescu” Pitesti, Computer Sciences
-
-## Diplomas & Certifications
-
-2014 EauDeWeb – PurePython
-
-2014 Coursera – Critical Thinking in Global Challenges
-
-2016 Luxoft Training – Design Patterns (GoF). For Java
+- **National College High school “Alexandru Odobescu” Pitesti, Computer Sciences** (2008 – 2012) 
 
 ## Self-Portrait
 
 - **Online presence** 
-    - [GitHub](https://github.com/alexandrugrigore) 
+	- [stackoverflow] (https://stackoverflow.com/users/3000244/shikkou)
     - [Goodreads](http://www.goodreads.com/alexugoku) 
 
 - **Characteristics** 
     - self-appraisal capacity 
     - autodidact 
-    - communicative 
-    - team player 
+    - communicative
     - flexible 
     - analytical capacity 
 
 - **Interests** 
     - **Professional:** functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design 
-    - **Personal:** literature, psychology, martial arts, cycling, SF, technology 
+    - **Personal:** music, gaming, cycling, SF, technology, literature, psychology, martial arts
 
 - **Job opportunities:** I am interested in an IT Software Full Time job with flexible hours. 
-- **Mobility:** I am not ready to relocate in order to get a job, because of my ongoing studies. I'm comfortable with business trips. 
+- **Mobility:** I am not ready to relocate in order to get a job. I'm comfortable with business trips. 
