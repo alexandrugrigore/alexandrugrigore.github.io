@@ -122,7 +122,7 @@ I have no problem in talking more about this aspect in person.
     - communicative
     - flexible 
     - analytical capacity 
-    - **Interests: ** functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design 
+    - **Interests**: functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design 
 
 - **Job opportunities:** I am interested in an IT Software Full Time job with flexible hours. 
 - **Mobility:** I am not ready to relocate in order to get a job. I'm comfortable with business trips. 
