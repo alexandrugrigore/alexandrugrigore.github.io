@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    <!--<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" media="print" type="text/css">-->
-    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css"> 
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" media="print" type="text/css">
+    <!--<link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">-->
     <title>{{ site.title | default: site.github.repository_name }}</title>
 
     <!--[if lt IE 9]>
@@ -18,7 +18,12 @@
    .noprint {
        display:none;
    }
+   
+   h2 {
+     font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+   }
   }
+  
 </style>
 
   </head>
@@ -27,11 +32,9 @@
 
     <header>
       <!-- <div class="container"> -->
-      <div class="inner">
-        <div class="noprint">
-            <h5><a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }}</h5></a>
-            <h6>{{ site.description | default: site.github.project_tagline }}</h6>
-        </div>
+      <div class="inner noprint">
+            <h1><a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }}</h1></a>
+            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
     </header>
     <div id="content-wrapper">
