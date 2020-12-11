@@ -29,8 +29,8 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Industrial HiVision (until end)** 
         - **Project description:** Desktop application for configuring/managing the network and the devices in the network 
         - **Roles:** development, integrator, refactoring, bugfixing, testing, automated testing
-        - **Roles description:** I am a front-end and back-end developer for this application, making new features, bugfixing, testing,  
-        automated testing and creating documentation. I also create new tools that help the whole team, like helpers for testing.
+        - **Roles description:** I was a front-end and back-end developer for this application, making new features, bugfixing, testing,  
+        automated testing and creating documentation. I also created new tools that help the whole team, like helpers for testing.
         - **Training role:** I helped new colleagues get acquainted with the application, the building process, the development process,  
         SCRUM methodology, and other points that helped them get started.
 
@@ -48,17 +48,14 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     filter and know when a price changes. ([http://darzar.com](http://darzar.com/)) 
     - **Roles:** design, development, integrator 
     - **Roles description:** I was a front-end and back-end developer at Darzar. I developed in every area of the project,  
-    from the website UI, to the database management and the algorithms that are not directly correlated to the website. 
+    from the website UI, to the database management and the algorithms that are not directly related to the website. 
     - **Achievements:** I have reduced the site's bounce rate by 50-60%. 
     
 ## Skills
 
-- **Roles** 
-    - Back-end Developer 
-    
 - **Project Types and/or Industry** 
-    - Telecom
     - BigData
+    - Telecom
     - Scraping, Crawling
 
 - **Development Style** 
@@ -74,12 +71,13 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Web**: Play Framework, Bootstrap, HTML, JavaScript
     - **Desktop:** Swing 
     - **OS**: Windows, Linux 
-    - **Tools**: Subversion/Git, Regex, Jira, Heroku, Maven, SBT, IntelliJ, Eclipse, Netbeans 
+    - **Tools**: Git/SVN, Regex, Maven/SBT, Jira, IntelliJ, Eclipse, Netbeans, Heroku
     - **Testing:** JUnit (Java), Specification, ScalaTest (Scala)
 
 - **Other Skills** 
-    - Front-end Developer (MVC, UX design)
-    - Tester (manual/automation)
+    - Back-End Development 
+    - Front-End Development (MVC, UX design)
+    - Testing (manual/automation)
     - Dictionaries, Indexing, Searching - used in making dynamic filtering system
     - Data Extractors, Crawling, Actors, Parallelism
     - Networking 
@@ -92,9 +90,8 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - I am currently developing a music related puzzle-platformer game. The development is done as two separate projects/modules.
     - One is the game itself, developed in Unity/C#, plus all the related work that must be put in a game  
     (assets, story, art, music, game mechanics, monetization ideas just to name a few).
-    - The other module is the core of the game, which for now is developed in Scala, and uses midi input for various functions in the game.  
-    functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design.   
-    This, when done, can also be released separately as a learning tool for begginer (and in the future advanced) musicians.
+    - The other module is the core of the game, which for now is developed in Scala, and uses MIDI input for various functions in the game.  
+    This, when done, can also be released separately as a learning tool for beginner (and in the future advanced) musicians.
 
 - **Various projects in high-school, university and after** 
     - This section is for highlighting my passion for programming throught the years, even if the tech was not frutified in jobs
@@ -104,17 +101,13 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 - **University of Bucharest, Computer Sciences, Informatics, not finished** (2013 – 2015) 
 
-Even though I did not finish college, my 2 years of studying were very useful, and helped me to better understand what I want,  
-what to study on my own time, and diving deep into subjects that are useful for me and my career.  
-I have no problem in talking more about this aspect in person.
-
 - **National College High school “Alexandru Odobescu” Pitesti, Computer Sciences** (2008 – 2012) 
 
 ## Self-Portrait
 
 - **Online presence** 
-    - [stackoverflow](https://stackoverflow.com/users/3000244/shikkou)
-    - [goodreads](http://www.goodreads.com/alexugoku) 
+    - [stackoverflow.com/u/3000244](https://stackoverflow.com/users/3000244)
+    - [goodreads.com/alexugoku](http://www.goodreads.com/alexugoku) 
 
 - **Characteristics** 
     - self-appraisal capacity 
