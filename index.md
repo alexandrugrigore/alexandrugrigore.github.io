@@ -13,43 +13,51 @@ Alexandru GRIGORE
 
 My objective is mastering functional programming in Scala, and as a long-term goal, becoming a software architect.
 
-I’m always looking for a challenge, open to new technologies, tools, development styles, new project types and I become passionate very quickly. 
+I’m always looking for a challenge, open to new technologies, tools, development styles, new industries and project types. 
 
 ## Experience:
 
-- **Software Development Engineer, Orange Services, 2017.November – present** 
-    - **Project description:** I am currently working on various projects involving Big Data, using Scala,  
+- **Data Engineer, GoPro, 2021.September – present**
+  - **Project description:** I am currently working on various projects involving Big Data, using Scala,  
     in some particular cases Java, and Spark for development.  
-    Other non-development tools I use include SQL (Hive, Impala), Kafka, YARN, HDFS, Hue, bash and Cloudera as a management tool.
+    Other non-development tools I use include SQL (Spark), Databricks, Docker, AWS, Airflow.
+  - **Roles:** development, design, refactoring, data pipelines
+    - **Roles description:** I am mainly a data pipeline developer/designer for various bigdata use cases. 
+    I sometimes also work on infrastructure projects (implementing APIs that are used internally)
+
+- **Software Development Engineer, Orange Services, 2017.November – 2021.September** 
+    - **Project description:** I am currently working on various projects involving Big Data, using Scala,  
+    in some particular cases Java, and Spark for development.  
+    Other non-development tools I use include SQL (Spark, Hive, Impala), Kafka, YARN, HDFS, Hue, bash and Cloudera as a management tool.
     - **Roles:** development, design, refactoring, devops
     - **Roles description:** I am mainly a developer for various bigdata projects, but a lot of my work also involves SQL (mainly not relational),
-    devops/scripting for some tasks that can be easily automated, managing/configuring the cluster (in Cloudera or direcly on the machine). 
+    devops/scripting for some tasks that can be easily automated, managing/configuring the cluster (in Cloudera or directly on the machine). 
 
-- **Java Developer, Luxoft Romania, 2015.November – 2017.November** 
+- **Java Developer, Luxoft Romania, 2015.November – 2017.November** 
     - **Industrial HiVision (until end)** 
-        - **Project description:** Desktop application for configuring/managing the network and the devices in the network 
-        - **Roles:** development, integrator, refactoring, bugfixing, testing, automated testing
-        - **Roles description:** I was a front-end and back-end developer for this application, making new features, bugfixing, testing,  
+        - **Project description:** Desktop application for configuring/managing the network and the devices in the network 
+        - **Roles:** development, integrator, refactoring, bug fixing, testing, automated testing
+        - **Roles description:** I was a front-end and back-end developer for this application, making new features, bugfixing, testing,  
         automated testing and creating documentation. I also created new tools that help the whole team, like helpers for testing.
         - **Training role:** I helped new colleagues get acquainted with the application, the building process, the development process,  
         SCRUM methodology, and other points that helped them get started.
 
     - **HTML5 Web Interface for Hirschmann devices (4 months)** 
-        - **Project description:** Replace the old Java applet-based web interface with HTML5 
+        - **Project description:** Replace the old Java applet-based web interface with HTML5 
         - **Roles:** development, integrator, refactoring 
-        - **Roles description:** I was a front-end developer, creating the website UI, using SNMP to retrieve data, making validations  
+        - **Roles description:** I was a front-end developer, creating the website UI, using SNMP to retrieve data, making validations  
         and using thread-safe methods to allow multiple users configure devices, and also helped in the creation of the framework used. 
-        - **Training role:** I helped other newly assigned team members to the project, to setup the environment,  
+        - **Training role:** I helped other newly assigned team members to the project, to set up the environment,  
         how the task assignment works, explain the framework, and explain the best practices. 
 
-- **Scala Developer, Brainlight, 2014.July – 2015.September** 
-    - **DarZar** – crawler, scrapper, extractor, advertising, aggregation, search 
-    - **Project description:** Darzar indexes products from any existing e-shop and lets the user search,   
-    filter and know when a price changes. ([http://darzar.com](http://darzar.com/)) 
+- **Scala Developer, Brainlight, 2014.July – 2015.September** 
+    - **DarZar** – crawler, scrapper, extractor, advertising, aggregation, search 
+    - **Project description:** Darzar indexes products from any existing e-shop and lets the user search,   
+    filter and know when a price changes. ([http://darzar.com](http://darzar.com/)) 
     - **Roles:** design, development, integrator 
     - **Roles description:** I was a front-end and back-end developer at Darzar. I developed in every area of the project,  
     from the website UI, to the database management and the algorithms that are not directly related to the website. 
-    - **Achievements:** I have reduced the site's bounce rate by 50-60%. 
+    - **Achievements:** I have reduced the site's bounce rate by 50-60%. 
     
 ## Skills
 
@@ -59,7 +67,7 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - Scraping, Crawling
 
 - **Development Style** 
-    - Objectual/Functional Programming Paradigms 
+    - OO/Functional Programming Paradigms 
     - Develop fast until it works (POC), optimize after (refactor)
     - Refactoring, Design Patterns, Modularization
     - Test/Behavior Driven Development (TDD, BDD) 
@@ -67,12 +75,12 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - Agile, Scrum 
 
 - **Technology Stack** 
-    - **General**: Scala, Java, Java 8
-    - **Web**: Play Framework, Bootstrap, HTML, JavaScript
-    - **Desktop:** Swing 
+    - **General**: Scala, Java, Java 8
+    - **Web**: Play Framework, Spring Framework, Bootstrap
+    - **Desktop:** Swing
     - **OS**: Windows, Linux 
-    - **Tools**: Git/SVN, Regex, Maven/SBT, Jira, IntelliJ, Eclipse, Netbeans, Heroku
-    - **Testing:** JUnit (Java), Specification, ScalaTest (Scala)
+    - **Tools**: Git/SVN, Regex, Maven/SBT, Jira, IntelliJ, Eclipse, Heroku
+    - **Testing:** JUnit (Java), Specification, ScalaTest (Scala)
 
 - **Other Skills** 
     - Back-End Development 
@@ -82,9 +90,14 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - Data Extractors, Crawling, Actors, Parallelism
     - Networking 
     - Web (E-commerce)
-    - Other tech: SQL, CSS, jQuery, Python, C# 
+    - Other tech: SQL, Python, HTML+CSS+JS, C# 
 
 ## Personal Projects:
+
+- **AmplifyMusic**
+  - Developing a music playlist manager app that creates a 'party' playlist based on configurable settings (ex. mood) 
+  and a selected playlist as a seed. Others can join using their own playlist. If you cannot use the app, contact me for a demo.
+  [https://amplify-music-web.herokuapp.com/](https://amplify-music-web.herokuapp.com/)
 
 - **SoulKey game**
     - I am currently developing a music related puzzle-platformer game. The development is done as two separate projects/modules.
@@ -94,20 +107,19 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     This, when done, can also be released separately as a learning tool for beginner (and in the future advanced) musicians.
 
 - **Various projects in high-school, university and after** 
-    - This section is for highlighting my passion for programming throught the years, even if the tech was not frutified in jobs
-    - minigame in Scala-JS, mobile apps in Xamarin/Android/iOS, windows app in Visual Fox Pro + MS Access, a lot of sites in HTML, CSS, JavaScript
+    - This section is for highlighting my passion for programming throughout the years, even if the tech was not used in jobs
+    - mini-game in Scala-JS, mobile apps in Xamarin/Android/iOS, Windows app in Visual Fox Pro + MS Access, a lot of sites in HTML, CSS, JavaScript
 
 ## Education:
 
-- **University of Bucharest, Computer Sciences, Informatics, not finished** (2013 – 2015) 
+- **University of Bucharest, Computer Sciences, Informatics, not finished** (2013 – 2015) 
 
-- **National College High school “Alexandru Odobescu” Pitesti, Computer Sciences** (2008 – 2012) 
+- **National College High school “Alexandru Odobescu” Pitesti, Computer Sciences** (2008 – 2012) 
 
 ## Self-Portrait
 
 - **Online presence** 
     - [stackoverflow.com/u/3000244](https://stackoverflow.com/users/3000244)
-    - [goodreads.com/alexugoku](http://www.goodreads.com/alexugoku) 
 
 - **Characteristics** 
     - self-appraisal capacity 
@@ -115,4 +127,4 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - communicative
     - flexible 
     - analytical capacity 
-    - **Interests**: functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design 
+    - **Interests**: functional programming, development, TDD, BDD, refactoring, pair programming, programming language paradigms, responsive design 
