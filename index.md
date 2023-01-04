@@ -95,9 +95,7 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 ## Personal Projects:
 
 - **AmplifyMusic**
-  - Developing a music playlist manager app that creates a 'party' playlist based on configurable settings (ex. mood) 
-  and a selected playlist as a seed. Others can join using their own playlist. If you cannot use the app, contact me for a demo.
-  [https://amplify-music-web.herokuapp.com/](https://amplify-music-web.herokuapp.com/)
+  - Developing a music playlist manager app that integrates with Spotify or any other music streaming service.
 
 - **SoulKey game**
     - I am currently developing a music related puzzle-platformer game. The development is done as two separate projects/modules.
