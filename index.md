@@ -17,16 +17,21 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 ## Experience:
 
-- **Data Engineer, GoPro, 2021.September – present**
-  - **Project description:** I am currently working on various projects involving Big Data, using Scala,  
+- **Full stack Developer, Revobet, contract, 2023.March – present**
+    - **Project description:** I am currently working as a full stack developer on multi-tenant betting platform. Mainly wokring with Java17 and VueJS - Typescript.
+    - **Roles:** development, feature design, refactoring
+    - **Roles description:** Given that the team is very agile, I work on whatever task is highest priority; new features, integrations, bugfixing, no matter if it's in the backend, frontend or both. 
+
+- **Data Engineer, GoPro, 2021.September – 2023.March**
+    - **Project description:** Worked on various projects involving Big Data, using Scala,  
     in some particular cases Java, and Spark for development.  
     Other non-development tools I use include SQL (Spark), Databricks, Docker, AWS, Airflow.
-  - **Roles:** development, design, refactoring, data pipelines
-    - **Roles description:** I am mainly a data pipeline developer/designer for various bigdata use cases. 
+    - **Roles:** development, design, refactoring, data pipelines
+    - **Roles description:** Was mainly a data pipeline developer/designer for various bigdata use cases. 
     I sometimes also work on infrastructure projects (implementing APIs that are used internally)
 
 - **Software Development Engineer, Orange Services, 2017.November – 2021.September** 
-    - **Project description:** I am currently working on various projects involving Big Data, using Scala,  
+    - **Project description:** Worked on various projects involving Big Data, using Scala,  
     in some particular cases Java, and Spark for development.  
     Other non-development tools I use include SQL (Spark, Hive, Impala), Kafka, YARN, HDFS, Hue, bash and Cloudera as a management tool.
     - **Roles:** development, design, refactoring, devops
@@ -55,13 +60,13 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Project description:** Darzar indexes products from any existing e-shop and lets the user search,   
     filter and know when a price changes. ([http://darzar.com](http://darzar.com/)) 
     - **Roles:** design, development, integrator 
-    - **Roles description:** I was a front-end and back-end developer at Darzar. I developed in every area of the project,  
-    from the website UI, to the database management and the algorithms that are not directly related to the website. 
-    - **Achievements:** I have reduced the site's bounce rate by 50-60%. 
+        - **Roles description:** I was a front-end and back-end developer at Darzar. I developed in every area of the project,  
+    from the website UI, to the database management and the algorithms that are not directly related to the website.  
     
 ## Skills
 
 - **Project Types and/or Industry** 
+    - Web Services
     - BigData
     - Telecom
     - Scraping, Crawling
@@ -69,22 +74,22 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 - **Development Style** 
     - OO/Functional Programming Paradigms 
     - Develop fast until it works (POC), optimize after (refactor)
-    - Refactoring, Design Patterns, Modularization
+    - Refactoring, Modularization, Design Patterns
     - Test/Behavior Driven Development (TDD, BDD) 
     - Pair Programming 
     - Agile, Scrum 
 
 - **Technology Stack** 
-    - **General**: Scala, Java, Java 8
-    - **Web**: Play Framework, Spring Framework, Bootstrap
+    - **General**: Scala, Java17
+    - **Web**: VueJS, Typescript, Play Framework, Spring Framework, Bootstrap
     - **Desktop:** Swing
-    - **OS**: Windows, Linux 
-    - **Tools**: Git/SVN, Regex, Maven/SBT, Jira, IntelliJ, Eclipse, Heroku
+    - **OS**: Windows, Linux
+    - **Tools**: Git, SVN, Regex, Maven/SBT, Jira, IntelliJ, Eclipse, Heroku
     - **Testing:** JUnit (Java), Specification, ScalaTest (Scala)
 
 - **Other Skills** 
     - Back-End Development 
-    - Front-End Development (MVC, UX design)
+    - Front-End Development
     - Testing (manual/automation)
     - Dictionaries, Indexing, Searching - used in making dynamic filtering system
     - Data Extractors, Crawling, Actors, Parallelism
