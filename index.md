@@ -17,12 +17,12 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 ## Experience:
 
-- **Full stack Developer, Revobet, contract, 2023.March – present**
-    - **Project description:** I am currently working as a full stack developer on multi-tenant betting platform. Mainly wokring with Java17 and VueJS - Typescript.
+- **Full Stack Developer, Revobet, contract, 2023.March – present (6+ mos)**
+    - **Project description:** I am currently working as a full stack developer on multi-tenant betting platform. Mainly wokring with Java17 and VueJS+Typescript.
     - **Roles:** development, feature design, refactoring
     - **Roles description:** Given that the team is very agile, I work on whatever task is highest priority; new features, integrations, bugfixing, no matter if it's in the backend, frontend or both. 
 
-- **Data Engineer, GoPro, 2021.September – 2023.March**
+- **Data Engineer, GoPro, 2021.September – 2023.March (1 yr 6 mos)**
     - **Project description:** Worked on various projects involving Big Data, using Scala,  
     in some particular cases Java, and Spark for development.  
     Other non-development tools I use include SQL (Spark), Databricks, Docker, AWS, Airflow.
@@ -30,7 +30,7 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Roles description:** Was mainly a data pipeline developer/designer for various bigdata use cases. 
     I sometimes also work on infrastructure projects (implementing APIs that are used internally)
 
-- **Software Development Engineer, Orange Services, 2017.November – 2021.September** 
+- **Software Development Engineer, Orange Services, 2017.November – 2021.September (3 yr 11 mos)** 
     - **Project description:** Worked on various projects involving Big Data, using Scala,  
     in some particular cases Java, and Spark for development.  
     Other non-development tools I use include SQL (Spark, Hive, Impala), Kafka, YARN, HDFS, Hue, bash and Cloudera as a management tool.
@@ -38,7 +38,7 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Roles description:** I am mainly a developer for various bigdata projects, but a lot of my work also involves SQL (mainly not relational),
     devops/scripting for some tasks that can be easily automated, managing/configuring the cluster (in Cloudera or directly on the machine). 
 
-- **Java Developer, Luxoft Romania, 2015.November – 2017.November** 
+- **Java Developer, Luxoft Romania, 2015.November – 2017.November (2 yr 1 mos)** 
     - **Industrial HiVision (until end)** 
         - **Project description:** Desktop application for configuring/managing the network and the devices in the network 
         - **Roles:** development, integrator, refactoring, bug fixing, testing, automated testing
@@ -55,7 +55,7 @@ I’m always looking for a challenge, open to new technologies, tools, developme
         - **Training role:** I helped other newly assigned team members to the project, to set up the environment,  
         how the task assignment works, explain the framework, and explain the best practices. 
 
-- **Scala Developer, Brainlight, 2014.July – 2015.September** 
+- **Scala Developer, Brainlight, 2014.July – 2015.September (1 yr 3 mos)** 
     - **DarZar** – crawler, scrapper, extractor, advertising, aggregation, search 
     - **Project description:** Darzar indexes products from any existing e-shop and lets the user search,   
     filter and know when a price changes. ([http://darzar.com](http://darzar.com/)) 
@@ -66,7 +66,7 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 ## Skills
 
 - **Project Types and/or Industry** 
-    - Web Services
+    - SaaS
     - BigData
     - Telecom
     - Scraping, Crawling
@@ -81,11 +81,9 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 - **Technology Stack** 
     - **General**: Scala, Java17
-    - **Web**: VueJS, Typescript, Play Framework, Spring Framework, Bootstrap
-    - **Desktop:** Swing
-    - **OS**: Windows, Linux
-    - **Tools**: Git, SVN, Regex, Maven/SBT, Jira, IntelliJ, Eclipse, Heroku
-    - **Testing:** JUnit (Java), Specification, ScalaTest (Scala)
+    - **Web**: VueJS, Typescript, Play Framework, Spring Framework
+    - **Tools**: Git, Regex, Maven/SBT, Jira, IntelliJ, Eclipse, Heroku
+    - **Testing:** JUnit, Specification, ScalaTest
 
 - **Other Skills** 
     - Back-End Development 
