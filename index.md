@@ -21,14 +21,23 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Project description:** I am currently working as a full stack developer on multi-tenant betting platform. Mainly wokring with Java17 and VueJS+Typescript.
     - **Roles:** development, feature design, refactoring
     - **Roles description:** Given that the team is very agile, I work on whatever task is highest priority; new features, integrations, bugfixing, no matter if it's in the backend, frontend or both. 
+    - **Technologies:** 
+        - Java17, Vue, Nuxt, Typescript, Kafka, Kubernetes
+        - Spring Framework, reactive streaming, junit5, mockito, property-based testing, vavr, lombok, mapstruct, functional paradigm
+        - vue, material design
+        - docker, kubernetes, ansible, maven, continuous integration and delivery (gocd)
+        - Trunk Based Development, XP, refactoring, MVP
 
 - **Data Engineer, GoPro, 2021.September – 2023.March (1 yr 6 mos)**
-    - **Project description:** Worked on various projects involving Big Data, using Scala,  
-    in some particular cases Java, and Spark for development.  
+    - **Project description:** Worked on various projects involving Big Data, using Scala, in some particular cases Java, and Spark for development.  
     Other non-development tools I use include SQL (Spark), Databricks, Docker, AWS, Airflow.
     - **Roles:** development, design, refactoring, data pipelines
     - **Roles description:** Was mainly a data pipeline developer/designer for various bigdata use cases. 
     I sometimes also work on infrastructure projects (implementing APIs that are used internally)
+    - **Technologies:** 
+        - Scala, Python, SQL
+        - Data Modeling, Data Lakehouse, Data Pipeline, and Data Analytics
+        - Hive, Spark, Databricks, Kafka, Airflow
 
 - **Software Development Engineer, Orange Services, 2017.November – 2021.September (3 yr 11 mos)** 
     - **Project description:** Worked on various projects involving Big Data, using Scala,  
