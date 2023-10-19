@@ -20,7 +20,7 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 - **Full Stack Developer, Revobet, contract, 2023.March – present (6+ mos)**
     - **Project description:** I am currently working as a full stack developer on multi-tenant betting platform. Mainly wokring with Java17 and VueJS+Typescript.
     - **Roles:** development, feature design, refactoring
-    - **Roles description:** Given that the team is very agile, I work on whatever task is highest priority; new features, integrations, bugfixing, no matter if it's in the backend, frontend or both. 
+    - **Roles description:** In a highly agile team, I focus on addressing the highest-priority tasks, spanning new feature development, integrations, and bug fixing, both in the backend and frontend domains. 
     - **Technologies:** 
         - Java17, Vue, Nuxt, Typescript, Kafka, Kubernetes
         - Spring Framework, reactive streaming, junit5, mockito, property-based testing, vavr, lombok, mapstruct, functional paradigm
