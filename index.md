@@ -17,8 +17,8 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 ## Experience:
 
-- **Full Stack Java+Scala/ReactNative, Aperture Software, self-owned, 2025.May - present (5+ mos)**
-    - **Project name/owner:** Amplify Music
+- **Full Stack Developer (Java+Scala/ReactNative), Aperture Software, self-owned, 2025.May - present (5+ mos)**
+    - **Project name/owner:** Amplify Music ([http://amplify-music.com](http://amplify-music.com/))
     - **Project description:** 
         Working on a product that shows music theory and audio features for the currently playing song, 
         and creates collaborative, deterministic, and controllable playlists for multiple users.
@@ -33,17 +33,17 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Technologies:** 
         - Java 17, Scala 2.13, React Native, Typescript, Docker, Heroku
 
-- **BigData Engineer, Aperture Software, contract with Berrystack Services, 2024.January - 2025.April (1 yr 4 mos)**
+- **Backend Developer, Aperture Software, contract with Berrystack Services, 2024.January - 2025.April (1 yr 4 mos)**
     - **Project name/owner:** an electrical company
     - **Project description:** 
         Led the migration of data processing workloads from Microsoft Synapse to Databricks to reduce costs and runtimes. 
-        Designed and delivered a Python framework to standardize Spark job authoring/optimization and SQL governance.
+        Designed and delivered a framework to standardize Spark job authoring/optimization and engineering practices.
     - **Roles description:** 
-        Technical lead; framework implementation; performance tuning (SQL/Spark); coding standards; knowledge transfer.
+        Technical lead; architectural design; framework implementation; performance tuning; coding standards; knowledge transfer.
     - **Technologies:** 
-        - Python, Spark, Spark SQL, Databricks
+        - Spark, Spark SQL, Databricks, Python
 
-- **Full Stack Python/VueJS, Aperture Software, contract with Berrystack Services, 2023.November – 2023.December (2 mos)**
+- **Full Stack Developer (Python/VueJS), Aperture Software, contract with Berrystack Services, 2023.November – 2023.December (2 mos)**
     - **Project name/owner:** Visual Hive
     - **Project description:** 
         Built an app that creates short social clips from long videos (e.g., podcasts): 
@@ -56,9 +56,9 @@ I’m always looking for a challenge, open to new technologies, tools, developme
         payments/subscriptions (Stripe); 
         UX for the clip-selection flow.
     - **Technologies:** 
-        - Python, Vue, Nuxt, Typescript
+        - Vue, Nuxt, Typescript, Python
 
-- **Full Stack Developer Java/VueJS, Aperture Software, contract with Brainlight, 2023.March – 2023.Octomber (8 mos)**
+- **Full Stack Developer (Java/VueJS), Aperture Software, contract with Brainlight, 2023.March – 2023.Octomber (8 mos)**
     - **Project description:** 
         Worked as a full-stack developer on a multi-tenant betting platform. 
         Jack-of-all-trades across users, authorization, SaaS integrations, new features, 
@@ -73,18 +73,18 @@ I’m always looking for a challenge, open to new technologies, tools, developme
         - Trunk Based Development, XP, refactoring, MVP
         - docker, kubernetes, maven, continuous integration and delivery (gocd)
 
-- **Data Engineer, GoPro, 2021.September – 2023.March (1 yr 6 mos)**
-    - **Project description:** Worked on various projects involving Big Data, using Scala, in some particular cases Java, and Spark for development. Other non-development tools I use include SQL (Spark), Databricks, Docker, AWS, Airflow.
-    - **Roles description:** Was mainly a data pipeline developer/designer for various bigdata use cases. I sometimes also work on infrastructure projects (implementing APIs that are used internally)
+- **Scala Developer, GoPro, 2021.September – 2023.March (1 yr 6 mos)**
+    - **Project description:** Worked on distributed data-processing systems primarily with Scala (and occasionally Java) on Spark, focusing on reliability, performance, and developer experience. Tooling included Databricks, Docker, AWS, and Airflow.
+    - **Roles description:** Mainly a pipeline and services developer/designer for data-intensive use cases; contributed to internal APIs and platform improvements.
     - **Roles:** development, design, refactoring, data pipelines
     - **Technologies:** 
-        - Scala, Python, SQL
+        - Scala, SQL, Python
         - Data Modeling, Data Lakehouse, Data Pipeline, and Data Analytics
         - Hive, Spark, Databricks, Kafka, Airflow
 
-- **Software Development Engineer, Orange Services, 2017.November – 2021.September (3 yr 11 mos)** 
-    - **Project description:** Worked on various projects involving Big Data, using Scala, in some particular cases Java, and Spark for development. Other non-development tools I use include SQL (Spark, Hive, Impala), Kafka, YARN, HDFS, Hue, bash and Cloudera as a management tool.
-    - **Roles description:** I am mainly a developer for various bigdata projects, but a lot of my work also involves SQL (mainly not relational), devops/scripting for some tasks that can be easily automated, managing/configuring the cluster (in Cloudera or directly on the machine).
+- **Scala/Java Developer, Orange Services, 2017.November – 2021.September (3 yr 11 mos)** 
+    - **Project description:** Built and maintained large-scale data-processing solutions with Scala (and in some cases Java) on Spark; ecosystem included Kafka, YARN, HDFS, Hue, bash, and Cloudera.
+    - **Roles description:** Primarily a developer for data-centric platforms; also involved in automation/scripting and cluster configuration/operations when needed.
     - **Roles:** development, design, refactoring, devops, training newcomers
 
 - **Java Developer, Luxoft Romania, 2015.November – 2017.November (2 yr 1 mos)** 
@@ -108,34 +108,43 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 - **Project Types and/or Industry** 
     - SaaS
-    - BigData
     - Telecom
-    - Scraping, Crawling
+    - Betting / Gaming platforms
+    - Music tech / Creator tools
+    - Mobile apps
+    - (Familiar with: BigData, scraping/crawling)
 
 - **Development Style** 
     - OO/Functional Programming Paradigms 
     - MVP, Develop fast until it works (POC), optimize after (refactor)
     - Refactoring, Modularization, Design Patterns
-    - Test/Behavior Driven Development (TDD, BDD) 
+    - Test/Behavior Driven Development (TDD, BDD)
+    - Property-Based Testing
     - Pair Programming 
     - Agile, Scrum 
+    - Trunk-Based Development, XP
 
 - **Technology Stack** 
     - **General**: Scala, Java17
-    - **Web**: VueJS, Typescript, Play Framework, Spring Framework
-    - **Tools**: Git, Regex, Maven/SBT, Jira, IntelliJ/Eclipse/VScode, Heroku
-    - **Testing:** JUnit, Specification, ScalaTest
+    - **Mobile**: React Native
+    - **Web**: React Native, VueJS, Nuxt, Typescript, Play Framework, Spring Framework
+    - **Backend**: Spring Framework, Play Framework, FastAPI
+    - **Integrations**: Firebase, Stripe, Deepgram, Spotify API
+    - **Messaging/Streaming**: Kafka
+    - **Tools**: Git, Regex, Maven/SBT, Jira, IntelliJ/Eclipse/VScode, Heroku, Docker, Kubernetes, GoCD
+    - **Testing:** JUnit 5, Mockito, ScalaTest, Property-Based Testing
 
 - **Other Skills** 
     - Back-End Development 
     - Front-End Development
-    - Big Data Development
-    - Testing (manual/automation)
+    - Mobile Development
+    - API design & third-party integrations
+    - Performance tuning, observability, release management
     - Dictionaries, Indexing, Searching - used in making dynamic filtering system
-    - Data Extractors, Crawling, Actors, Parallelism
+    - Concurrency / Actors / Parallelism
     - Networking 
     - E-commerce
-    - Familiar with: SQL, Python, C# 
+    - Familiar with: SQL, Python, Big Data platforms (Spark, Databricks), Airflow, scraping/crawling
 
 ## Personal Projects:
 
