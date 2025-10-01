@@ -17,9 +17,55 @@ I’m always looking for a challenge, open to new technologies, tools, developme
 
 ## Experience:
 
-- **Full Stack Developer, Revobet, contract, 2023.March – present (6+ mos)**
-    - **Project description:** I am currently working as a full stack developer on multi-tenant betting platform. Mainly wokring with Java17 and VueJS+Typescript.
-    - **Roles description:** In a highly agile team, I focus on addressing the highest-priority tasks, spanning new feature development, integrations, and bug fixing, both in the backend and frontend domains. 
+- **Full Stack Java+Scala/ReactNative, Aperture Software, self-owned, 2025.May - present (5+ mos)**
+    - **Project name/owner:** Amplify Music
+    - **Project description:** 
+        Working on a product that shows music theory and audio features for the currently playing song, 
+        and creates collaborative, deterministic, and controllable playlists for multiple users.
+        
+        Integrates with Spotify and other music streaming services. 
+        For DJs, provides an event dashboard where the host creates a “party” with settings 
+        (mood, allowed/blocked genres, decade, favorite artists/tracks). 
+        Participants join via link/QR, set preferences, and their inputs are combined into a playlist that respects the event filters;
+        works in real time or for advance planning (e.g., weddings).
+    - **Roles description:** 
+        Product & tech lead; architecture; end-to-end development; third-party integrations; UX flows; observability; release management.
+    - **Technologies:** 
+        - Java 17, Scala 2.13, React Native, Typescript, Docker, Heroku
+
+- **BigData Engineer, Aperture Software, contract with Berrystack Services, 2024.January - 2025.April (1 yr 4 mos)**
+    - **Project name/owner:** an electrical company
+    - **Project description:** 
+        Led the migration of data processing workloads from Microsoft Synapse to Databricks to reduce costs and runtimes. 
+        Designed and delivered a Python framework to standardize Spark job authoring/optimization and SQL governance.
+    - **Roles description:** 
+        Technical lead; framework implementation; performance tuning (SQL/Spark); coding standards; knowledge transfer.
+    - **Technologies:** 
+        - Python, Spark, Spark SQL, Databricks
+
+- **Full Stack Python/VueJS, Aperture Software, contract with Berrystack Services, 2023.November – 2023.December (2 mos)**
+    - **Project name/owner:** Visual Hive
+    - **Project description:** 
+        Built an app that creates short social clips from long videos (e.g., podcasts): 
+        upload → speech-to-text (Deepgram) → transcript & phrase selection → export clips with subtitles and preset formats. 
+        Integrated Firebase for data and Stripe for payments.
+    - **Roles description:**
+        End-to-end development (rapid POC); 
+        API integrations (Deepgram); 
+        data modeling (Firebase); 
+        payments/subscriptions (Stripe); 
+        UX for the clip-selection flow.
+    - **Technologies:** 
+        - Python, Vue, Nuxt, Typescript
+
+- **Full Stack Developer Java/VueJS, Aperture Software, contract with Brainlight, 2023.March – 2023.Octomber (8 mos)**
+    - **Project description:** 
+        Worked as a full-stack developer on a multi-tenant betting platform. 
+        Jack-of-all-trades across users, authorization, SaaS integrations, new features, 
+        services integration, and bug fixing on both backend and frontend. 
+        In a startup context, focused on effective practices and structured learning (*The Nature of Software Development*, *TDD by Example*), 
+        formalizing principles I consistently apply: DRY, KISS, YAGNI, Tell-don’t-ask, SOLID (ISP via traits/mixins in Scala), DIP.
+    - **Roles description:** In a highly agile team, I focus on the highest-priority tasks across new feature development, integrations, and bug fixing, in both backend and frontend.
     - **Roles:** development, feature design, refactoring, bug fixing, training newcomers
     - **Technologies:** 
         - Java17, Vue, Nuxt, Typescript, Kafka
@@ -92,9 +138,6 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - Familiar with: SQL, Python, C# 
 
 ## Personal Projects:
-
-- **AmplifyMusic**
-  - Developing a music playlist manager app that integrates with Spotify and other music streaming service.
 
 - **SoulKey game**
     - I am currently developing a music related puzzle-platformer game. The development is done as two separate projects/modules.
