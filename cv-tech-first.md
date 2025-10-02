@@ -37,7 +37,7 @@ permalink: /cv-tech-first/
 **Stack/Services:** Vue · Nuxt · Typescript · Python (typed) · Firebase · Stripe · Deepgram  
 **Highlights:** Social clip creation from long videos; STT→transcript→selection→export flow.
 
-### Aperture (Brainlight) — Full Stack (Java/VueJS) · 2023.March - 2023.Octomber
+### Aperture Software (Brainlight) — Full Stack (Java/VueJS) · 2023.March - 2023.Octomber
 **Stack:** Java17 · Vue · Nuxt · Typescript · Spring · Kafka · Docker/Kubernetes · GoCD  
 **Highlights:** Multi-tenant betting; features, auth, integrations, bug-fixing; XP/clean-code practices.
 
@@ -73,7 +73,7 @@ permalink: /cv-tech-first/
 ## Self-Portrait
 
 - **Online presence** 
-    - [stackoverflow.com/u/3000244](https://stackoverflow.com/users/3000244)
+    - [stackoverflow.com](https://stackoverflow.com/users/3000244)
 
 - **Characteristics** 
     - self-appraisal capacity 

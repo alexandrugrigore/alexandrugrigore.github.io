@@ -89,7 +89,7 @@ Music-driven puzzle-platformer; separate Scala core using MIDI input as a learn-
 ## Self-Portrait
 
 - **Online presence** 
-    - [stackoverflow.com/u/3000244](https://stackoverflow.com/users/3000244)
+    - [stackoverflow.com](https://stackoverflow.com/users/3000244)
 
 - **Characteristics** 
     - self-appraisal capacity 
