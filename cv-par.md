@@ -15,10 +15,9 @@ Alexandru GRIGORE
 ======
 
 **Location**: Romania, Bucharest  
-**Phone**: +40752076996  
-**E-mail**: alexandru.grig@gmail.com
+**Phone**: +40752076996  **E-mail**: [alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
 
-**Tagline:** Scala/Java Full-Stack & Mobile (React Native Web)  
+**Tagline:** Scala/Java Full-Stack & Mobile (React Native Web) · Building deterministic music experiences  
 **Objective:** Master functional programming; long-term: software architect.
 
 ## Selected Projects

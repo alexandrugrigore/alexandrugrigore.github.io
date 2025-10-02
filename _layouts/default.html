@@ -48,25 +48,23 @@
   </head>
 
   <body>
-    <header>
+    <!-- <header>
       <div class="inner noprint">
         <h1><a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
-
-      <!-- Tabs (auto-generated from pages with nav: true) -->
-      <nav class="tabs noprint">
-        <ul>
-          {% assign nav_pages = site.pages | where_exp: "p", "p.nav == true" | sort: "nav_order" %}
-          {% for p in nav_pages %}
-            <li class="{% if p.url == page.url %}active{% endif %}">
-              <a href="{{ p.url | relative_url }}">{{ p.nav_title | default: p.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </nav>
-    </header>
-
+    </header> -->
+    
+    <nav class="tabs noprint">
+      <ul>
+        {% assign nav_pages = site.pages | where_exp: "p", "p.nav == true" | sort: "nav_order" %}
+        {% for p in nav_pages %}
+          <li class="{% if p.url == page.url %}active{% endif %}">
+            <a href="{{ p.url | relative_url }}">{{ p.nav_title | default: p.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
