@@ -1,3 +1,12 @@
+---
+layout: default
+title: CV — Impact-First
+nav: true
+nav_order: 5
+nav_title: Impact-First
+permalink: /old
+---
+
 Alexandru GRIGORE
 ======
 
