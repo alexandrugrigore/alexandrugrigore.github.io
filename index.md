@@ -15,6 +15,8 @@ My objective is mastering functional programming, and as a long-term goal, becom
 
 I’m always looking for a challenge, open to new technologies, tools, development styles, industries and project types. 
 
+Target roles: Scala/Java backend, Full Stack (Vue/Nuxt, React Native), architecture track.
+
 ## Experience:
 
 - **Full Stack Developer (Java+Scala/ReactNative), Aperture Software, self-owned, 2025.May - present (5+ mos)**
@@ -33,17 +35,19 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Technologies:** 
         - Java 17, Scala 2.13, React Native, Typescript, Docker, Heroku
 
-- **Backend Developer, Aperture Software, contract with Berrystack Services, 2024.January - 2025.April (1 yr 4 mos)**
+- **Backend Developer (Python — typed, OOP/FP; Java/Scala mentality), Aperture Software, contract with Berrystack Services, 2024.January - 2025.April (1 yr 4 mos)**
     - **Project name/owner:** an electrical company
     - **Project description:** 
         Led the migration of data processing workloads from Microsoft Synapse to Databricks to reduce costs and runtimes. 
         Designed and delivered a framework to standardize Spark job authoring/optimization and engineering practices.
-    - **Roles description:** 
-        Technical lead; architectural design; framework implementation; performance tuning; coding standards; knowledge transfer.
+    - **Roles description:**
+        Technical lead; architectural design; framework implementation; performance tuning; coding standards; knowledge transfer;
+        Wrote Python in a Java/Scala style: typed (type hints/mypy), OOP-first with FP patterns (pure functions, immutability, lambdas), explicit interfaces/contracts; avoided dynamic/duck-typing idioms.
     - **Technologies:** 
-        - Spark, Spark SQL, Databricks, Python
+        - Spark (incl. SQL), Databricks
+        - Python (typed; Java/Scala approach)
 
-- **Full Stack Developer (Python/VueJS), Aperture Software, contract with Berrystack Services, 2023.November – 2023.December (2 mos)**
+- **Full Stack Developer (Python — typed, OOP/FP; Java/Scala mentality/VueJS), Aperture Software, contract with Berrystack Services, 2023.November – 2023.December (2 mos)**
     - **Project name/owner:** Visual Hive
     - **Project description:** 
         Built an app that creates short social clips from long videos (e.g., podcasts): 
@@ -54,7 +58,8 @@ I’m always looking for a challenge, open to new technologies, tools, developme
         API integrations (Deepgram); 
         data modeling (Firebase); 
         payments/subscriptions (Stripe); 
-        UX for the clip-selection flow.
+        UX for the clip-selection flow;
+        Wrote Python in a Java/Scala style: typed (type hints/mypy), OOP-first with FP patterns (pure functions, immutability, lambdas), explicit interfaces/contracts; avoided dynamic/duck-typing idioms.
     - **Technologies:** 
         - Vue, Nuxt, Typescript, Python
 
@@ -78,9 +83,9 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - **Roles description:** Mainly a pipeline and services developer/designer for data-intensive use cases; contributed to internal APIs and platform improvements.
     - **Roles:** development, design, refactoring, data pipelines
     - **Technologies:** 
-        - Scala, SQL, Python
-        - Data Modeling, Data Lakehouse, Data Pipeline, and Data Analytics
-        - Hive, Spark, Databricks, Kafka, Airflow
+        - Scala
+        - Spark, Hive, Databricks, Kafka, Airflow
+        - (Familiar with: SQL, Python)
 
 - **Scala/Java Developer, Orange Services, 2017.November – 2021.September (3 yr 11 mos)** 
     - **Project description:** Built and maintained large-scale data-processing solutions with Scala (and in some cases Java) on Spark; ecosystem included Kafka, YARN, HDFS, Hue, bash, and Cloudera.
@@ -144,7 +149,7 @@ I’m always looking for a challenge, open to new technologies, tools, developme
     - Concurrency / Actors / Parallelism
     - Networking 
     - E-commerce
-    - Familiar with: SQL, Python, Big Data platforms (Spark, Databricks), Airflow, scraping/crawling
+    - (Familiar with: SQL, Python in a Java/Scala style, Big Data platforms — Spark/Databricks, Airflow, scraping/crawling)
 
 ## Personal Projects:
 
