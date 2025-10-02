@@ -1,6 +1,16 @@
+---
+layout: default
+title: CV — Tech-First
+nav: true
+nav_order: 4
+nav_title: Tech-First
+permalink: /cv-tech-first/
+---
+
 <p class="noprint" style="text-align:right;margin:0;">
   <button onclick="window.print()" style="padding:.4rem .6rem;cursor:pointer;">Print / Save PDF</button>
 </p>
+
 Alexandru GRIGORE
 ======
 
@@ -46,8 +56,28 @@ Alexandru GRIGORE
 **Highlights:** DarZar — aggregation/search across e-shops.
 
 ## Skills (Summary Matrix)
-- **Languages:** Scala ▣▣▣▣▣ · Java ▣▣▣▣▢ · Typescript ▣▣▣▣▢ · Python (typed, Java/Scala style) ▣▣▣▢▢
-- **Web/Mobile:** React Native (Web) ▣▣▣▣▢ · Vue/Nuxt ▣▣▣▣▢
-- **Backend:** Spring ▣▣▣▣▢ · Play ▣▣▣▢▢ · FastAPI ▣▣▣▢▢
-- **Messaging/CI:** Kafka ▣▣▣▢▢ · Docker/Kubernetes ▣▣▣▢▢ · GoCD ▣▣▣▢▢
+
+- **Languages:** Scala ▣▣▣▣▣ · Java ▣▣▣▣▢ · Typescript ▣▣▣▣▢ · Python (typed, Java/Scala style) ▣▣▣▢▢  
+- **Web/Mobile:** React Native (Web) ▣▣▣▣▢ · Vue/Nuxt ▣▣▣▣▢  
+- **Backend:** Spring ▣▣▣▣▢ · Play ▣▣▣▢▢ · FastAPI ▣▣▢▢▢  
+- **Messaging/CI:** Kafka ▣▣▣▢▢ · Docker/Kubernetes ▣▣▣▢▢ · GoCD ▣▣▢▢▢  
 - **Familiar:** Spark/Databricks, SQL, Airflow, scraping/crawling
+
+## Education
+
+- **University of Bucharest, Computer Sciences, Informatics, not finished** (2013 – 2015) 
+- **National College High school “Alexandru Odobescu” Pitesti, Computer Sciences** (2008 – 2012) 
+
+## Self-Portrait
+
+- **Online presence** 
+    - [stackoverflow.com/u/3000244](https://stackoverflow.com/users/3000244)
+
+- **Characteristics** 
+    - self-appraisal capacity 
+    - autodidact 
+    - communicative
+    - flexible 
+    - analytical capacity 
+    - **Interests**: functional programming, development, TDD, refactoring, pair programming, programming language paradigms, responsive design
+

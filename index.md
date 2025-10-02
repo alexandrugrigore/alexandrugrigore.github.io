@@ -1,22 +1,33 @@
+---
+layout: default
+title: CV — Impact-First
+nav: true
+nav_order: 1
+nav_title: Impact-First
+permalink: /
+---
+
 <p class="noprint" style="text-align:right;margin:0;">
   <button onclick="window.print()" style="padding:.4rem .6rem;cursor:pointer;">Print / Save PDF</button>
 </p>
+
 Alexandru GRIGORE
 ======
 
 **Location**: Romania, Bucharest  
 **Phone**: +40752076996  
-**E-mail**: alexandru.grig@gmail.com
+**E-mail**: [alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
 
 **Tagline:** Scala/Java Full-Stack & Mobile (React Native Web) · Building deterministic music experiences  
 **Objective:** Master functional programming; long-term: software architect. Target roles: Scala/Java backend, Full Stack (Vue/Nuxt, React Native), architecture track.
 
 ## Selected Projects
+
 **Amplify Music** — React Native (Web), Java 17, Scala 2.13 — [http://amplify-music.com](http://amplify-music.com/)  
 Music-theory insights for Spotify + deterministic collaborative playlists; DJ dashboard with mood/filters.
 
 **SoulKey (game + MIDI core)** — Unity/C#, Scala  
-Music-driven puzzle-platformer; separate Scala core using MIDI input as a learn-tool for musicians.
+Music-driven puzzle-platformer; separate Scala core using MIDI input as a learning tool.
 
 ## Experience
 
@@ -40,7 +51,7 @@ Visual Hive — social clips from long videos
 
 ### Aperture Software (Brainlight) — Full Stack Developer (Java/VueJS) · 2023.March - 2023.Octomber
 - Multi-tenant betting; users/auth, SaaS integrations, new features, services integration, bug-fixing.
-- XP practices; formalized DRY, KISS, YAGNI, Tell-don’t-ask, SOLID (ISP via Scala traits/mixins), DIP.
+- XP practices; DRY, KISS, YAGNI, Tell-don’t-ask, SOLID (ISP via Scala traits/mixins), DIP.
 - **Stack:** Java17, Vue, Nuxt, Typescript, Kafka; Spring; Docker/Kubernetes; GoCD.
 
 ### GoPro — Scala Developer · 2021.September - 2023.March
@@ -58,8 +69,27 @@ Visual Hive — social clips from long videos
 - DarZar (crawler/scraper/extractor/aggregation/search). Full-stack across UI, DB, algorithms.
 
 ## Skills (Summary Matrix)
-- **Languages:** Scala ▣▣▣▣▣ · Java ▣▣▣▣▢ · Typescript ▣▣▣▣▢ · Python (typed, Java/Scala style) ▣▣▣▢▢
-- **Web/Mobile:** React Native (Web) ▣▣▣▣▢ · Vue/Nuxt ▣▣▣▣▢
-- **Backend:** Spring ▣▣▣▣▢ · Play ▣▣▣▢▢ · FastAPI ▣▣▣▢▢
-- **Messaging/CI:** Kafka ▣▣▣▢▢ · Docker/Kubernetes ▣▣▣▢▢ · GoCD ▣▣▣▢▢
+
+- **Languages:** Scala ▣▣▣▣▣ · Java ▣▣▣▣▢ · Typescript ▣▣▣▣▢ · Python (typed, Java/Scala style) ▣▣▣▢▢  
+- **Web/Mobile:** React Native (Web) ▣▣▣▣▢ · Vue/Nuxt ▣▣▣▣▢  
+- **Backend:** Spring ▣▣▣▣▢ · Play ▣▣▣▢▢ · FastAPI ▣▣▢▢▢  
+- **Messaging/CI:** Kafka ▣▣▣▢▢ · Docker/Kubernetes ▣▣▣▢▢ · GoCD ▣▣▢▢▢  
 - **Familiar:** Spark/Databricks, SQL, Airflow, scraping/crawling
+
+## Education
+
+- **University of Bucharest, Computer Sciences, Informatics, not finished** (2013 – 2015) 
+- **National College High school “Alexandru Odobescu” Pitesti, Computer Sciences** (2008 – 2012) 
+
+## Self-Portrait
+
+- **Online presence** 
+    - [stackoverflow.com/u/3000244](https://stackoverflow.com/users/3000244)
+
+- **Characteristics** 
+    - self-appraisal capacity 
+    - autodidact 
+    - communicative
+    - flexible 
+    - analytical capacity 
+    - **Interests**: functional programming, development, TDD, refactoring, pair programming, programming language paradigms, responsive design
