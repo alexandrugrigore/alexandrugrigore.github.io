@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<htmlhtml lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -7,36 +7,66 @@
     <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" media="print" type="text/css">
-    <!--<link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">-->
     <title>{{ site.title | default: site.github.repository_name }}</title>
 
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-<style>
-  @media print{
-   .noprint {
-       display:none;
-   }
-   
-   h2 {
-     margin-left: 10mm;
-   }
-  }
-  
-</style>
 
+    <style>
+      /* Tabs */
+      .tabs { margin: 0.5rem 0 0; }
+      .tabs ul { display: flex; gap: 8px; list-style: none; padding: 0; margin: 0; }
+      .tabs li { margin: 0; }
+      .tabs a {
+        display: inline-block;
+        padding: .5rem .75rem;
+        border: 1px solid #ddd;
+        border-bottom: none;
+        background: #f7f7f7;
+        text-decoration: none;
+        border-radius: .5rem .5rem 0 0;
+        color: inherit;
+      }
+      .tabs li.active a {
+        background: #fff;
+        font-weight: 600;
+      }
+      #content-wrapper {
+        border: 1px solid #ddd;
+        border-radius: 0 .5rem .5rem .5rem;
+        background: #fff;
+        padding: 1rem;
+      }
+
+      @media print {
+        .noprint, .tabs { display: none; }
+        h2 { margin-left: 10mm; }
+        #content-wrapper { border: none; padding: 0; }
+      }
+    </style>
   </head>
 
   <body>
-
     <header>
-      <!-- <div class="container"> -->
       <div class="inner noprint">
-            <h1><a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }}</h1></a>
-            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <h1><a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
+
+      <!-- Tabs (auto-generated from pages with nav: true) -->
+      <nav class="tabs noprint">
+        <ul>
+          {% assign nav_pages = site.pages | where_exp: "p", "p.nav == true" | sort: "nav_order" %}
+          {% for p in nav_pages %}
+            <li class="{% if p.url == page.url %}active{% endif %}">
+              <a href="{{ p.url | relative_url }}">{{ p.nav_title | default: p.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
     </header>
+
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
@@ -44,11 +74,6 @@
         </section>
       </div>
     </div>
-    <!-- <div class="container">
-      <section id="main_content">
-        {{ content }}
-      </section>
-    </div> -->
 
     {% if site.google_analytics %}
       <script type="text/javascript">
@@ -58,7 +83,7 @@
       <script type="text/javascript">
         try {
           var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
-        pageTracker._trackPageview();
+          pageTracker._trackPageview();
         } catch(err) {}
       </script>
     {% endif %}
