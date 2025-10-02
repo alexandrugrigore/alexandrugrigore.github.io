@@ -11,13 +11,12 @@ permalink: /cv-par/
   <button onclick="window.print()" style="padding:.4rem .6rem;cursor:pointer;">Print / Save PDF</button>
 </p>
 
-Alexandru GRIGORE
-======
+# Alexandru GRIGORE
+###### Scala/Java Full-Stack & Mobile (React Native Web) · Building deterministic music experiences
+---
+**E-mail**: [alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com) **Phone**: +40752076996  
+**Location**: Romania, Bucharest
 
-**Location**: Romania, Bucharest  
-**Phone**: +40752076996  **E-mail**: [alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
-
-**Tagline:** Scala/Java Full-Stack & Mobile (React Native Web) · Building deterministic music experiences  
 **Objective:** Master functional programming; long-term: software architect.
 
 ## Selected Projects
@@ -35,7 +34,7 @@ Music-driven puzzle-platformer; separate Scala core using MIDI input as a learn-
 **Results:** Real-time party updates and advance planning (e.g., weddings).  
 **Stack:** Java 17, Scala 2.13, React Native (Web), Typescript, Docker, Heroku.
 
-### Aperture Software — Backend (Python — typed; Java/Scala mentality) · 2024.January - 2025.April
+### Aperture Software (Berrystack) — Backend (Python — typed; Java/Scala mentality) · 2024.January - 2025.April
 **Problem:** High costs and runtimes on Microsoft Synapse.  
 **Actions:** Led migration to Databricks; designed a standard framework for Spark job authoring/optimization.  
 **Results:** Reduced cost and runtime; unified engineering practices.  

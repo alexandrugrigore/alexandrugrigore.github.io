@@ -11,13 +11,12 @@ permalink: /cv-tech-first/
   <button onclick="window.print()" style="padding:.4rem .6rem;cursor:pointer;">Print / Save PDF</button>
 </p>
 
-Alexandru GRIGORE
-======
+# Alexandru GRIGORE
+###### Scala/Java Full-Stack & Mobile (React Native Web) · Building deterministic music experiences
+---
+**E-mail**: [alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com) **Phone**: +40752076996  
+**Location**: Romania, Bucharest
 
-**Location**: Romania, Bucharest  
-**Phone**: +40752076996  **E-mail**: [alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
-
-**Tagline:** Scala/Java Full-Stack & Mobile (React Native Web) · Building deterministic music experiences  
 **Objective:** Master functional programming; long-term: software architect. Target roles: Scala/Java backend, Full Stack (Vue/Nuxt, React Native), architecture track.
 
 ## Selected Projects
@@ -30,11 +29,11 @@ Alexandru GRIGORE
 **Stack:** Java 17 · Scala 2.13 · React Native (Web) · Typescript · Docker · Heroku  
 **Highlights:** Proprietary platform for deterministic event playlists; music-theory insights; real-time QR onboarding.
 
-### Aperture Software — Backend (Python typed; Java/Scala mindset) · 2024.January - 2025.April
+### Aperture Software (Berrystack) — Backend (Python typed; Java/Scala mindset) · 2024.January - 2025.April
 **Env:** Spark (incl. SQL) · Databricks · Python (typed; mypy/type hints)  
 **Highlights:** Synapse → Databricks migration; standard framework for Spark job authoring/optimization.
 
-### Aperture Software — Full Stack (Python typed/VueJS) · 2023.November - 2023.December
+### Aperture Software (Berrystack) — Full Stack (Python typed/VueJS) · 2023.November - 2023.December
 **Stack/Services:** Vue · Nuxt · Typescript · Python (typed) · Firebase · Stripe · Deepgram  
 **Highlights:** Social clip creation from long videos; STT→transcript→selection→export flow.
 

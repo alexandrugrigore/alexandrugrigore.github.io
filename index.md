@@ -11,13 +11,12 @@ permalink: /
   <button onclick="window.print()" style="padding:.4rem .6rem;cursor:pointer;">Print / Save PDF</button>
 </p>
 
-Alexandru GRIGORE
-======
+# Alexandru GRIGORE
+###### Scala/Java Full-Stack & Mobile (React Native Web) · Building deterministic music experiences
+---
+**E-mail**: [alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com) **Phone**: +40752076996  
+**Location**: Romania, Bucharest
 
-**Location**: Romania, Bucharest  
-**Phone**: +40752076996  **E-mail**: [alexandru.grig@gmail.com](mailto:alexandru.grig@gmail.com)
-
-**Tagline:** Scala/Java Full-Stack & Mobile (React Native Web) · Building deterministic music experiences  
 **Objective:** Master functional programming; long-term: software architect. Target roles: Scala/Java backend, Full Stack (Vue/Nuxt, React Native), architecture track.
 
 ## Selected Projects
@@ -36,13 +35,13 @@ Amplify Music — proprietary product (Web w/ React Native)
 - DJ dashboard with mood/filters; live updates via participant link/QR; works for live events and planning.
 - **Stack:** Java 17, Scala 2.13, React Native (Web), Typescript, Docker, Heroku.
 
-### Aperture Software — Backend Developer (Python — typed, OOP/FP; Java/Scala mentality) · 2024.January - 2025.April
+### Aperture Software (Berrystack) — Backend Developer (Python typed, OOP/FP; Java/Scala mentality) · 2024.January - 2025.April
 Energy client — Synapse → Databricks migration
 - Led platform migration to reduce cost and runtime.
 - Authored a standard framework for Spark job authoring/optimization.
 - **Environment:** Spark (incl. SQL), Databricks; Python (typed; Java/Scala approach).
 
-### Aperture Software — Full Stack Developer (Python — typed, OOP/FP; Java/Scala mentality/VueJS) · 2023.November - 2023.December
+### Aperture Software (Berrystack) — Full Stack Developer (Python typed, OOP/FP; Java/Scala mentality/VueJS) · 2023.November - 2023.December
 Visual Hive — social clips from long videos
 - Upload → Deepgram STT → transcript edit → export short clips with subtitles.
 - Integrated Firebase (data) and Stripe (payments).
