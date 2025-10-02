@@ -2,9 +2,9 @@
 layout: default
 title: CV — Impact-First
 nav: true
-nav_order: 1
+nav_order: 5
 nav_title: Impact-First
-permalink: /
+permalink: /impact-first/
 ---
 
 <p class="noprint" style="text-align:right;margin:0;">
