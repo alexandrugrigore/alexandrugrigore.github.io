@@ -1,12 +1,3 @@
----
-layout: default
-title: CV — Impact-First
-nav: true
-nav_order: 1
-nav_title: Impact-First
-permalink: /
----
-
 <p class="noprint" style="text-align:right;margin:0;">
   <button onclick="window.print()" style="padding:.4rem .6rem;cursor:pointer;">Print / Save PDF</button>
 </p>
