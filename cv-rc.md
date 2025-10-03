@@ -21,7 +21,7 @@ permalink: /
   <a href="mailto:alexandru.grig@gmail.com">alexandru.grig@gmail.com</a>  +40 752 076 996
 </h6>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ## Profile
 I’m a full-stack developer, **Scala/Java** and **TypeScript**-leaning who codes with a typed **OOP/FP** mindset. I care about clarity, modularization/reusability, determinism, and agile development.
@@ -36,8 +36,8 @@ I’m building **music-related products** under Aperture Software:
 
 | &nbsp; |
 |---|
-| Scala/Java backend |
 | Full Stack (Scala/Java + Vue/Nuxt/ReactNative) |
+| Scala/Java backend |
 | **hands-on** architecture |
 | **hands-on** product owner |
 {: .cv-table}
@@ -46,7 +46,7 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ## Skills & Roles
 
@@ -54,15 +54,15 @@ I’m building **music-related products** under Aperture Software:
 
 | &nbsp; | &nbsp; |
 |---|---|
-| **Core roles** | Full-Stack (Scala/Java/TS)<br>Backend (Scala/Java)<br>Mobile/Web (React Native, Vue/Nuxt) |
-| **Strengths** | product thinking · system design · API design & integrations · performance & DX · clean code (DRY/KISS/YAGNI/SOLID) · XP/Trunk-Based |
+| **Core roles** | Full-Stack (*Scala/Java/TS*)<br>Backend (Scala/Java)<br>Mobile/Web (React Native, Vue/Nuxt)<br>Tech Lead |
+| **Strengths** |  **POCs** · **framework** design & development · product/system design · API design & integrations · performance & DX · **clean code** (DRY/KISS/YAGNI/SOLID) · XP/Trunk-Based |
 | **Toolbox** | Java 17 · Scala 2.13<br>React Native · Vue/Nuxt · TypeScript<br>Spring · PlayFramwork · Kafka<br>Docker/K8s · GoCD |
 {: .cv-table}
 
 </div>
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ## Online
 - [stackoverflow.com/u/3000244](https://stackoverflow.com/users/3000244)
@@ -71,16 +71,16 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ## Hobbies
 - **music**: playing instruments, composing, theory, programming, MIDI automation, sound engineering
-- game design/development (SoulKey)
+- apps,game design & development (AmplifyMusic, SoulKey game, others)
 - reading tech books
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ## Work Experience (summary)
 ###### **Full Stack Developer - Aperture Software - self-owned** <span class="role-dates">2025 - present</span>
@@ -115,7 +115,7 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ## Education
 ###### University of Bucharest, **Computer Sciences, Informatics** <span class="role-dates">2013 - 2015</span>
@@ -123,9 +123,11 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
+<div class="print-avoid-split" markdown="1">
+
 ## Main Areas of Expertise
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### Roles
 
@@ -137,12 +139,15 @@ I’m building **music-related products** under Aperture Software:
 | Scala Developer | 7y1 |
 | Java Developer | 6y0 |
 | Backend Developer (typed Python with OOP/FP discipline) | 1y6 |
+| Tech Lead | 1y9 |
+| Product Owner | 0y5 |
+| Mentor / Trainer | 1y0 |
 {: .cv-table}
 
 </div>
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### Project Types & Industry
 
@@ -154,12 +159,34 @@ I’m building **music-related products** under Aperture Software:
 | Telecom | 4y0 |
 | Betting / Gaming platforms | 0y8 |
 | Music tech / Creator tools | 0y7 |
+| Networking / Industrial devices | 1y8 |
+| E-commerce / Aggregation | 1y3 |
+| Mobile / React Native | 0y5 |
 {: .cv-table}
 
 </div>
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
+
+### Types of Work & Contributions
+
+<div class="table-wrap" markdown="1">
+
+| &nbsp; | &nbsp; |
+|---|---|
+| Framework implementation (ingestion/processing standards) | 6y0 |
+| Data pipelines & ETL (batch/streaming) | 5y5 |
+| API & third-party integrations | 3y0 |
+| Real-time / Streaming (Kafka, streaming pipelines) | 2y6 |
+| DevOps / CI/CD (Docker/K8s, GoCD) | 2y0 |
+{: .cv-table}
+
+</div>
+</div>
+
+<div class="cv-slab print-avoid-split" markdown="1">
+
 ### Preferred Development Style
 
 <div class="table-wrap" markdown="1">
@@ -168,7 +195,7 @@ I’m building **music-related products** under Aperture Software:
 |---|---|
 | Functional + OO (typed; immutability; FP patterns) | 11y3 |
 | TDD/BDD & Property-Based Testing | 2y7 |
-| Trunk-Based Development / XP | 1y1 |
+| Trunk-Based Development / XP | 2y0 |
 | Refactoring / Modularization / Design Patterns | 8y0 |
 | Pair Programming / Agile / Scrum | 6y0 |
 {: .cv-table}
@@ -176,7 +203,7 @@ I’m building **music-related products** under Aperture Software:
 </div>
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### Preferred Technology Stack
 
@@ -197,35 +224,56 @@ I’m building **music-related products** under Aperture Software:
 </div>
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
-### Expertise in Obsolete Technologies
+### Cloud Platforms
 
 <div class="table-wrap" markdown="1">
 
-| &nbsp; | &nbsp; |
-|---|---|
-| Hadoop CDH stack (Cloudera, YARN, HDFS, Hue) | 4y0 |
-| SNMP-driven device UIs | 0y4 |
-| Java Applets (migration/replacement) | 0y4 |
-| Visual FoxPro + MS Access (legacy personal project) | 0y6 |
+| &nbsp; | &nbsp; | &nbsp; |
+|---|---|---|
+| AWS | Databricks, S3, EC2, Airflow | 1y6 |
+| Azure | Databricks, ADLS Gen2, Data Factory, Synapse, AKS, Functions, Key Vault, DevOps Pipelines | 1y4 |
+| Heroku | app runtime, pipelines | 0y5 |
+| Hadoop CDH (Cloudera) | YARN, HDFS, Hue, Impala, Kudu | 4y0 |
 {: .cv-table}
 
 </div>
 </div>
 
-<div class="cv-slab" markdown="1">
+</div>
+
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ## Self-Portrait
-- **Books that I Love**: *The Nature of Software Development* (R. Jeffries), *Test-Driven Development By Example* (K. Beck), *Pragmatic Programmer* (Andrew Hunt, David Thomas), *Clean Code* (Robert Martin)
-- **Interests**: functional programming, development, TDD, refactoring, pair programming, language paradigms
+
+<div class="table-wrap" markdown="1">
+
+#### Books
+
+| Title | Author(s) |
+|---|---|
+| *The Nature of Software Development* | R. Jeffries |
+| *Clean Code* | Robert Martin |
+| *The Pragmatic Programmer: From Journeyman to Master* | Andrew Hunt, David Thomas |
+| *Test-Driven Development By Example* | K. Beck |
+| *Don't Make Me Think: A Common Sense Approach to Web Usability* | Steve Krug |
+| *Smart and Gets Things Done* | Joel Spolsky |
+| *Joel on Software, More Joel on Software* | Joel Spolsky |
+{: .cv-table}
 
 </div>
 
+#### Interests
+  **functional programming** (typed FP/OOP), **POCs** & rapid prototyping, **framework & API** design, product & system design, developer experience & performance, deterministic **algorithms** & data pipelines, **music-tech** (MIDI tools, audio analysis, playlist generation, DJ/musician tooling), integrations, testing discipline (**TDD**, property-based), refactoring & **clean code**, pair programming, programming language paradigms
+
+</div>
+
+<div class="print-avoid-split" markdown="1">
 
 ## Detailed Experience
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Full Stack Developer - Aperture Software - self-owned** <span class="role-dates">2025.May - present (5+ mos)</span>
   **Amplify Music ([http://amplify-music.com](http://amplify-music.com/))** - building a product that shows **music-theory** and audio features for the currently playing song, and creates collaborative, deterministic and controllable playlists for multiple users. 
@@ -237,7 +285,7 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Backend Developer - Aperture Software - Berrystack** <span class="role-dates">2024.January - 2025.April (1 yr 4 mos)</span>
   **Energy client** — led migration of data-processing workloads from Microsoft Synapse to Databricks to **cut costs and runtimes**; 
@@ -249,7 +297,7 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Full Stack Developer - Aperture Software - Berrystack** <span class="role-dates">2023.November – 2023.December (2 mos)</span>
   **Visual Hive** — built an app to generate social media short clips from long videos (e.g., **podcasts**).
@@ -261,7 +309,7 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Full Stack Developer - Aperture Software - Brainlight** <span class="role-dates">2023.March – 2023.October (8 mos)</span>
   **Revobet** - improved and added new features for multi-tenant betting platform — full-stack work across users/authorization, SaaS integrations, new features, services integration, and bug-fixing on both backend and frontend. 
@@ -271,7 +319,7 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Scala Developer - GoPro** <span class="role-dates">2021.September – 2023.March (1 yr 6 mos)</span>
   **GoPro backend** - built and maintained data pipelines (with more advanced SQL than prior roles). Worked across Databricks, Docker, AWS, and Airflow. 
@@ -281,7 +329,7 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Scala/Java Developer - Orange Services** <span class="role-dates">2017.November – 2021.September (3 yr 11 mos)</span>
   **Telecom big-data platform** — implemented and evolved large-scale data ingestions using a newly built in-house framework, starting from raw mobile network events (2G/3G/4G/LTE) and growing to diverse sources/sinks and well-defined marketing/ML use cases.
@@ -295,7 +343,7 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Java Developer - Luxoft Romania** <span class="role-dates">2015.November – 2017.November (2 yr 1 mos)</span>
   
@@ -307,10 +355,11 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="cv-slab" markdown="1">
+<div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Scala Developer - Brainlight** <span class="role-dates">2014.July – 2015.September (1 yr 3 mos)</span>
   **DarZar** — Worked **full-stack** across website UI, database management, and non-UI algorithms for a product crawler/scraper/extractor/aggregation/search across e-shops, enabling search/filtering and price-change alerts ([http://darzar.com](http://darzar.com/)).
 - **Tech**: Scala; PlayFramework; crawling/aggregation/search/filtering algorithms
 
+</div>
 </div>

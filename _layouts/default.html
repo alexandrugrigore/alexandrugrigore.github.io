@@ -14,9 +14,8 @@
     <![endif]-->
 
     <style>
-      /* ======================
-         Tabs + content wrapper
-         ====================== */
+      html, body { background:#fff !important; }
+
       .tabs { margin: 0.5rem 0 0; }
       .tabs ul { display: flex; gap: 8px; list-style: none; padding: 0; margin: 0; }
       .tabs li { margin: 0; }
@@ -44,16 +43,12 @@
         h2 { margin-left: 10mm; }
         #content-wrapper { border: none; padding: 0; }
       }
-    
-      /* ======================
-         Global accent / headings
-         ====================== */
+      
       :root {
         --tw-text-opacity: 1;
         --cv-accent: rgb(84 138 183 / var(--tw-text-opacity, 1));
       }
     
-      /* Remove heading separators + set color (high specificity) */
       header ~ #content-wrapper .markdown-body h1,
       header ~ #content-wrapper .markdown-body h2,
       header ~ #content-wrapper .markdown-body h3,
@@ -75,7 +70,6 @@
         color: var(--cv-accent) !important;
       }
     
-      /* Make h2/h3/h4 behave as title + right-aligned date (no floats) */
       .markdown-body h1, .markdown-body h2, .markdown-body h3,
       .markdown-body h4, .markdown-body h5, .markdown-body h6,
       #content-wrapper h1, #content-wrapper h2, #content-wrapper h3,
@@ -86,22 +80,21 @@
         gap: .5rem;
         width: 100%;
       }
-      /* Title (often a <strong>) can grow; date stays fixed on the right */
+
       .markdown-body h2 > strong, .markdown-body h3 > strong, .markdown-body h4 > strong,
       #content-wrapper h2 > strong, #content-wrapper h3 > strong, #content-wrapper h4 > strong {
         flex: 1 1 auto;
         min-width: 0;
       }
       .role-dates {
-        margin-left: auto;     /* push to the right edge */
-        flex: 0 0 auto;        /* don't grow/shrink */
+        margin-left: auto;
+        flex: 0 0 auto;
         text-align: right;
         font-size: .85em;
         opacity: .75;
-        white-space: normal;   /* can wrap, but block stays right-aligned */
+        white-space: normal;
       }
     
-      /* Remove any hr inserted after headings */
       .markdown-body h1 + hr,
       .markdown-body h2 + hr,
       .markdown-body h3 + hr,
@@ -109,13 +102,8 @@
       .markdown-body h5 + hr,
       .markdown-body h6 + hr { display: none !important; }
     
-      /* ======================
-         CV sections / utilities
-         ====================== */
-    
-      /* Section slab (background for a whole section incl. title + content) */
       .cv-slab {
-        --tw-bg-opacity: .35; /* translucent gray */
+        --tw-bg-opacity: .35;
         background: rgb(229 231 235 / var(--tw-bg-opacity, 1));
         padding: 1rem 1.25rem;
         margin: 1rem 0 1.25rem;
@@ -124,7 +112,6 @@
       .cv-slab > :first-child { margin-top: 0; }
       .cv-slab > :last-child  { margin-bottom: 0; }
     
-      /* Make bold + links inside cv-slab use the accent */
       .cv-slab b, .cv-slab strong { color: var(--cv-accent) !important; }
       .cv-slab a {
         color: var(--cv-accent) !important;
@@ -132,7 +119,6 @@
       }
       .cv-slab a:hover { filter: brightness(0.9); }
     
-      /* Lists: no bullets/numbers (content + slabs) */
       #content-wrapper .markdown-body ul,
       #content-wrapper .markdown-body ol,
       .cv-slab ul, .cv-slab ol {
@@ -145,7 +131,6 @@
       #content-wrapper .markdown-body li,
       .cv-slab li { margin-left: 0; padding-left: 0.75rem; }
     
-      /* Tables: borderless, full width, header hidden */
       .cv-table {
         width: 100%;
         border-collapse: collapse;
@@ -163,12 +148,10 @@
       }
       .cv-table tr { border: 0 !important; }
     
-      /* Beat theme defaults on table borders */
       .markdown-body table.cv-table,
       .markdown-body table.cv-table th,
       .markdown-body table.cv-table td { border: 0 !important; }
     
-      /* Zebra: odd rows transparent; even rows gray (matches your last paste) */
       .cv-table tr:nth-child(odd)  {
         background: transparent;
         color: inherit;
@@ -178,41 +161,52 @@
         color: inherit;
       }
     
-      /* Align all columns AFTER the first to the right */
       .cv-table th:first-child,
       .cv-table td:first-child { text-align: left !important; }
       .cv-table th:not(:first-child),
       .cv-table td:not(:first-child) { text-align: right !important; }
     
-      /* Wrapper: horizontal scroll on small screens */
       .table-wrap {
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
         border: 0 !important;
       }
     
-      /* Handy utilities */
       .text-center { text-align: center; }
       .text-right  { text-align: right; }
       .table-compact th, .table-compact td { padding: 4px 6px; font-size: 0.95em; }
 
       .heading-center {
-        display: block !important;       /* cancel the flex on h2/h3/h4 */
-        text-align: center !important;   /* center the text */
-        justify-content: center !important; /* harmless if it stays flex */
+        display: block !important;
+        text-align: center !important;
+        justify-content: center !important;
       }
+
+      @media print {
+        /* Prefer to keep a whole section together; push to next page if it won't fit */
+        .print-avoid-split {
+          break-inside: avoid;          /* modern */
+          page-break-inside: avoid;     /* legacy */
+        }
+
+        /* Force a section to start on a new page */
+        .print-break-before {
+          break-before: page;           /* modern */
+          page-break-before: always;    /* legacy */
+        }
+
+        /* Force a section to end the page after it */
+        .print-break-after {
+          break-after: page;
+          page-break-after: always;
+        }
+      }
+
     </style>    
   </head>
 
   <body>
-    <!-- <header>
-      <div class="inner noprint">
-        <h1><a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-      </div>
-    </header> -->
-    
-    <nav class="tabs noprint">
+    <!-- <nav class="tabs noprint">
       <ul>
         {% assign nav_pages = site.pages | where_exp: "p", "p.nav == true" | sort: "nav_order" %}
         {% for p in nav_pages %}
@@ -221,7 +215,7 @@
           </li>
         {% endfor %}
       </ul>
-    </nav>
+    </nav> -->
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
