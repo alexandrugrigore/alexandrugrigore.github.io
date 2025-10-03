@@ -29,7 +29,7 @@ I’m building **music-related products** under **Aperture Software**: **Amplify
 **Target roles**: Scala/Java backend, Full Stack (Vue/Nuxt, React Native), architecture track.
 
 ## Skills & Roles
-| | |
+| <!-- --> | <!-- --> |
 |---|---|
 | **Core roles** | Full-Stack (Scala/Java/TS)<br>Backend (Scala/Java)<br>Mobile/Web (React Native, Vue/Nuxt) |
 | **Strengths** | product thinking · system design · API design & integrations (Spotify, Firebase, Stripe, Deepgram) · performance & DX · clean code (DRY/KISS/YAGNI/SOLID) · XP/Trunk-Based |
@@ -82,7 +82,7 @@ I’m building **music-related products** under **Aperture Software**: **Amplify
 ## Main Areas of Expertise
 
 ### Roles
-| | |
+| <!-- --> | <!-- --> |
 |---|---|
 | Full-Stack Developer (Scala/Java/TS) | 3y4 |
 | Scala Developer | 7y1 |
@@ -90,7 +90,7 @@ I’m building **music-related products** under **Aperture Software**: **Amplify
 | Backend Developer (Python — typed; Java/Scala mentality) | 1y6 |
 
 ### Project Types & Industry
-| | |
+| <!-- --> | <!-- --> |
 |---|---|
 | SaaS / Platforms | 6y0 |
 | Telecom | 4y0 |
@@ -98,7 +98,7 @@ I’m building **music-related products** under **Aperture Software**: **Amplify
 | Music tech / Creator tools | 0y7 |
 
 ### Preferred Development Style
-| | |
+| <!-- --> | <!-- --> |
 |---|---|
 | Functional + OO (typed; immutability; FP patterns) | 11y3 |
 | TDD/BDD & Property-Based Testing | 2y7 |
@@ -107,7 +107,7 @@ I’m building **music-related products** under **Aperture Software**: **Amplify
 | Pair Programming / Agile / Scrum | 6y0 |
 
 ### Preferred Technology Stack
-| | |
+| <!-- --> | <!-- --> |
 |---|---|
 | Scala (2.x / FP) | 7y1 |
 | Java (incl. Java 17) | 6y0 |
@@ -119,7 +119,7 @@ I’m building **music-related products** under **Aperture Software**: **Amplify
 | Docker / Kubernetes | 2y2 |
 
 ### Expertise in Obsolete Technologies
-| | |
+| <!-- --> | <!-- --> |
 |---|---|
 | Hadoop CDH stack (Cloudera, YARN, HDFS, Hue) | 4y0 |
 | SNMP-driven device UIs | 0y4 |
