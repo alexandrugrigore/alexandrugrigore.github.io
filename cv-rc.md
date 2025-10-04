@@ -58,7 +58,7 @@ permalink: /
 
   <!-- Website link -->
   
-  <a href="http://amplify-music.com/" class="icon-link" itemprop="url"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+  <!-- <a href="http://amplify-music.com/" class="icon-link" itemprop="url"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
 <path id="Website" fill="#5589b7" d="M14.83,7.6c0.03,0.08,0.03,0.14,0,0.19s-0.08,0.07-0.17,0.07c-0.12,0-0.26-0.01-0.4-0.04
   s-0.2-0.06-0.18-0.1c0.15-0.15,0.16-0.26,0.03-0.33c-0.13-0.07-0.27-0.11-0.42-0.11s-0.25-0.04-0.3-0.09s-0.03-0.09,0.05-0.09
   s0.22,0,0.4,0.01c0.19,0.01,0.31,0.04,0.37,0.08s0.17,0.1,0.33,0.19S14.8,7.52,14.83,7.6z M15.9,13.35c-0.11-0.03-0.2-0.03-0.26,0
@@ -97,7 +97,7 @@ permalink: /
   s-0.41,0.34-0.66,0.52s-0.51,0.34-0.78,0.5c-0.21,0.15-0.36,0.32-0.46,0.51s-0.19,0.32-0.27,0.4c1.81-0.43,3.28-1.34,4.43-2.75
   C21.31,17.6,21.9,15.93,21.95,14z"></path>
 </svg>
-</a>
+</a> -->
   
 
 </h6>
@@ -148,7 +148,7 @@ I’m building **music-related products** under Aperture Software:
 #### Work Experience (summary)
 ##### **Full Stack Developer · Aperture Software** <span class="role-dates">2025 - present</span>
   - Java/Scala + ReactNative
-  - [Amplify Music](http://amplify-music.com/) startup: music-theory insights; deterministic collaborative playlists.
+  - Amplify Music startup: music-theory insights; deterministic collaborative playlists.
 
 ##### **Backend Developer · Berrystack** <span class="role-dates">2024 - 2025</span>
   - typed Python with OOP/FP discipline
@@ -331,7 +331,7 @@ I’m building **music-related products** under Aperture Software:
 <div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Full Stack Developer · Aperture Software** <span class="role-dates">2025.May - present (0y5+)</span>
-  **Amplify Music ([http://amplify-music.com](http://amplify-music.com/))** - building a product that shows music-theory and audio features for the currently playing song, and creates collaborative, deterministic and controllable playlists for multiple users. 
+  **Amplify Music** - building a product that shows music-theory and audio features for the currently playing song, and creates collaborative, deterministic and controllable playlists for multiple users. 
     
   Integrates with Spotify and other streaming services; **for DJs**, provides an event dashboard to create a “party” with mood/filters (allowed/blocked genres, decade, favorite artists/tracks), invite via link/QR, and combine guest preferences into playlists in real time or for advance planning (e.g., weddings), **completely deterministic and transparent**
 
@@ -472,7 +472,7 @@ I’m building **music-related products** under Aperture Software:
 <div class="cv-slab print-avoid-split" markdown="1">
 
 ### **Scala Developer · Brainlight** <span class="role-dates">2014.July – 2015.September (1y3)</span>
-  **DarZar** — Worked **full-stack** across website UI, database management, and non-UI algorithms for a product crawler/scraper/extractor/aggregation/search across e-shops, enabling search/filtering and price-change alerts ([http://darzar.com](http://darzar.com/)).
+  **DarZar** — Worked **full-stack** across website UI, database management, and non-UI algorithms for a product crawler/ scraper/ extractor/ aggregation/ search across e-shops, enabling search/filtering and price-change alerts.
 
 <div class="table-wrap" markdown="1">
 
