@@ -87,16 +87,16 @@
         min-width: 0;
       }
       .role-dates {
-  margin-left: auto;        /* push to the right */
-  flex: 1 1 200px;          /* allow shrink/grow; give it some basis */
-  min-width: 0;             /* allow wrapping instead of overflow */
-  text-align: right;        /* stay right-aligned even when wrapped */
-  white-space: normal;      /* <-- allow wrapping */
-  overflow-wrap: anywhere;  /* break long tokens if needed */
-  word-break: normal;       /* let 'anywhere' do the work */
-  font-size: .85em;
-  opacity: .75;
-}
+        margin-left: auto;        /* push to the right */
+        flex: 1 1 200px;          /* allow shrink/grow; give it some basis */
+        min-width: 0;             /* allow wrapping instead of overflow */
+        text-align: right;        /* stay right-aligned even when wrapped */
+        white-space: normal;      /* <-- allow wrapping */
+        overflow-wrap: anywhere;  /* break long tokens if needed */
+        word-break: normal;       /* let 'anywhere' do the work */
+        font-size: .85em;
+        opacity: .75;
+      }
     
       .markdown-body h1 + hr,
       .markdown-body h2 + hr,
@@ -166,8 +166,18 @@
     
       .cv-table th:first-child,
       .cv-table td:first-child { text-align: left !important; }
-      .cv-table th:not(:first-child),
-      .cv-table td:not(:first-child) { text-align: right !important; }
+      /* .cv-table th:not(:first-child),
+      .cv-table td:not(:first-child) { text-align: right !important; } */
+
+      /* Default: everything left unless specified */
+      .table-wrap .cv-table th,
+      .table-wrap .cv-table td { text-align: left; }
+
+      /* Opt-in: only inside .table-wrap.tb-right */
+      .table-wrap.tb-right .cv-table th:not(:first-child),
+      .table-wrap.tb-right .cv-table td:not(:first-child) {
+        text-align: right !important;
+      }
     
       .table-wrap {
         overflow-x: auto;
@@ -204,6 +214,37 @@
           page-break-after: always;
         }
       }
+
+     /* Single column by default */
+.grid-two-up { 
+  display: block;
+  margin-block: 1rem;      /* space above/below the whole grid section */
+  padding-block: .5rem;    /* inner breathing room so slabs don’t “kiss” the edges */
+}
+
+/* Two columns with equal heights per row */
+@media (min-width: 768px) {
+  .grid-two-up {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;             /* row + column gap between slabs */
+    align-items: stretch;  /* equal height per row */
+  }
+  .grid-two-up .cv-slab {
+    margin: 0;             /* keep zero so gap controls spacing */
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    box-sizing: border-box; /* include padding in height calc */
+  }
+}
+
+/* Ensure slab content doesn’t collapse margins out of the rounded box */
+.grid-two-up .cv-slab > :first-child { margin-top: 0; }
+.grid-two-up .cv-slab > :last-child  { margin-bottom: 0; }
+
+
+
 
     </style>    
   </head>
