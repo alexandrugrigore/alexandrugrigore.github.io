@@ -87,13 +87,16 @@
         min-width: 0;
       }
       .role-dates {
-        margin-left: auto;
-        flex: 0 0 auto;
-        text-align: right;
-        font-size: .85em;
-        opacity: .75;
-        white-space: normal;
-      }
+  margin-left: auto;        /* push to the right */
+  flex: 1 1 200px;          /* allow shrink/grow; give it some basis */
+  min-width: 0;             /* allow wrapping instead of overflow */
+  text-align: right;        /* stay right-aligned even when wrapped */
+  white-space: normal;      /* <-- allow wrapping */
+  overflow-wrap: anywhere;  /* break long tokens if needed */
+  word-break: normal;       /* let 'anywhere' do the work */
+  font-size: .85em;
+  opacity: .75;
+}
     
       .markdown-body h1 + hr,
       .markdown-body h2 + hr,
@@ -112,7 +115,7 @@
       .cv-slab > :first-child { margin-top: 0; }
       .cv-slab > :last-child  { margin-bottom: 0; }
     
-      .cv-slab b, .cv-slab strong { color: var(--cv-accent) !important; }
+      .cv-slab b { color: var(--cv-accent) !important; }
       .cv-slab a {
         color: var(--cv-accent) !important;
         text-decoration-color: var(--cv-accent);
