@@ -8,7 +8,14 @@ permalink: /
 ---
 
 <p class="noprint" style="text-align:right;margin:0;">
-  <button onclick="window.print()" style="padding:.4rem .6rem;cursor:pointer;">Print / Save PDF</button>
+  <a
+    href="{{ '/assets/pdf/Alexandru_Grigore_CV.pdf' | relative_url }}"
+    target="_blank"
+    rel="noopener"
+    
+  >
+    {% include icons/pdf.svg %}
+  </a>
 </p>
 
 <h1 class="heading-center" style="border-bottom:0; padding-bottom:0; text-decoration:none; margin-bottom:.25rem;">
@@ -17,27 +24,22 @@ permalink: /
 <h3 class="heading-center" style="margin-top:0; color: black !important;">
   Full-Stack Developer Scala/Java + TypeScript
 </h3>
-<h6 class="heading-center">
+<h5 class="heading-center">
   <a href="mailto:alexandru.grig@gmail.com">alexandru.grig@gmail.com</a>
   
   +40 752 076 996 
 
-  <div class="noprint">
+  <div class="noprint" style="margin-top:10px;">
     <a  href="https://github.com/alexandrugrigore" class="icon-link" itemprop="sameAs">
-      {% include icons/github.svg %}
-    </a>
+    {% include icons/github.svg %}</a>
     <a href="https://stackoverflow.com/users/3000244"  class="icon-link" itemprop="sameAs">
-      {% include icons/stackoverflow.svg %}
-    </a>
+    {% include icons/stackoverflow.svg %}</a>
     <a href="https://www.linkedin.com/in/alexugoku/" class="icon-link" itemprop="sameAs">
-      {% include icons/linkedin.svg %}
-    </a>
+    {% include icons/linkedin.svg %}</a>
     <!-- <a href="http://amplify-music.com/" class="icon-link" itemprop="url">
-      {% include icons/website.svg %}
-    </a> -->
+    {% include icons/website.svg %}</a> -->
   </div>
-  
-</h6>
+</h5>
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
@@ -73,8 +75,9 @@ I’m building **music-related products** under Aperture Software:
 | &nbsp; | &nbsp; |
 |---|---|
 | **Roles** | Full-Stack Developer (*Scala/Java + TS (React Native, Vue/Nuxt)*) · Backend Developer (Scala/Java) · Tech Lead |
-| **Strengths** | **framework** design & development · **product/ system** design & development · **API** design & integrations · DX & performance · **clean code** (DRY/ KISS/ YAGNI/ SOLID) · XP/Trunk-Based · POCs |
 | **Toolbox** | Java 17 · Scala 2.13 · React Native · Vue/Nuxt · TypeScriptSpring · PlayFramwork · KafkaDocker/K8s · GoCD |
+| **Strengths** | **framework** design & development · **product/ system** design & development · **API** design & integrations · DX & performance · **clean code** (DRY/ KISS/ YAGNI/ SOLID) · XP/Trunk-Based · POCs |
+| **Languages** | English - C2 (CEFR) · Romanian - Native |
 {: .cv-table}
 
 </div>
@@ -117,6 +120,8 @@ I’m building **music-related products** under Aperture Software:
 ###### National College High school “Alexandru Odobescu” Pitesti, **Computer Sciences** <span class="role-dates">2008 - 2012</span>
 
 </div>
+
+<div class="cv-divider-line"></div>
 
 ### Main Areas of Expertise
 
