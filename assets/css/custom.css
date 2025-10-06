@@ -129,12 +129,12 @@ h6 {
 
 .role-dates {
     margin-left: auto;
-    flex: 1 1 200px;
+    flex: 1 1 14ch;
     min-width: 0;
     text-align: right;
     white-space: normal;
-    overflow-wrap: anywhere;
-    word-break: normal;
+    overflow-wrap: normal;
+    word-break: keep-all;
     font-size: .85em;
     opacity: .75;
 }
@@ -311,7 +311,7 @@ h6 {
     padding-block: .5rem;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 600px) {
     .grid-two-up {
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -335,3 +335,5 @@ h6 {
 .grid-two-up .cv-slab> :last-child {
     margin-bottom: 0;
 }
+
+.nowrap { white-space: nowrap; }

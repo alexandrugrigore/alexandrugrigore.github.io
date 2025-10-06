@@ -18,22 +18,24 @@ permalink: /
   Full-Stack Developer Scala/Java + TypeScript
 </h3>
 <h6 class="heading-center">
-  <div><a href="mailto:alexandru.grig@gmail.com">alexandru.grig@gmail.com</a></div>
+  <a href="mailto:alexandru.grig@gmail.com">alexandru.grig@gmail.com</a>
   
-  <div> +40 752 076 996 </div>
+  +40 752 076 996 
 
-  <a href="https://github.com/alexandrugrigore" class="icon-link" itemprop="sameAs">
-    {% include icons/github.svg %}
-  </a>
-  <a href="https://stackoverflow.com/users/3000244"  class="icon-link" itemprop="sameAs">
-    {% include icons/stackoverflow.svg %}
-  </a>
-  <a href="https://www.linkedin.com/in/alexugoku/" class="icon-link" itemprop="sameAs">
-    {% include icons/linkedin.svg %}
-  </a>
-  <a href="http://amplify-music.com/" class="icon-link" itemprop="url">
-    {% include icons/website.svg %}
-  </a>
+  <div class="noprint">
+    <a  href="https://github.com/alexandrugrigore" class="icon-link" itemprop="sameAs">
+      {% include icons/github.svg %}
+    </a>
+    <a href="https://stackoverflow.com/users/3000244"  class="icon-link" itemprop="sameAs">
+      {% include icons/stackoverflow.svg %}
+    </a>
+    <a href="https://www.linkedin.com/in/alexugoku/" class="icon-link" itemprop="sameAs">
+      {% include icons/linkedin.svg %}
+    </a>
+    <!-- <a href="http://amplify-music.com/" class="icon-link" itemprop="url">
+      {% include icons/website.svg %}
+    </a> -->
+  </div>
   
 </h6>
 
@@ -82,46 +84,39 @@ I’m building **music-related products** under Aperture Software:
 
 #### Work Experience (summary)
 ##### **Full Stack Developer · Aperture Software** <span class="role-dates">2025 - present</span>
-  - Java/Scala + ReactNative
-  - Amplify Music startup: music-theory insights; deterministic collaborative playlists.
+  - Amplify Music startup: music-theory insights; deterministic collaborative playlists using **Java/Scala + ReactNative**
 
 ##### **Backend Developer · Berrystack** <span class="role-dates">2024 - 2025</span>
-  - typed Python with OOP/FP discipline
-  - **Team lead** for Synapse > Databricks migration; python + spark **framework creation**; performance optimizations.
+  - Team lead for Synapse > Databricks migration, using **Python with OOP/FP discipline + spark** framework creation; performance optimizations.
 
 ##### **Full Stack Developer · VisualHive** <span class="role-dates">2023</span>
-  - typed Python with OOP/FP discipline + VueJS
-  - Visual Hive: long-video (e.g. podcasts) > short-clip (social media format) pipeline; **fast POC**.
+  - Visual Hive: fast POC for long-video (e.g. podcasts) > short-clip (social media format) pipeline, **using Python with OOP/FP discipline + VueJS**
 
 ##### **Full Stack Developer · Revobet** <span class="role-dates">2023</span>
-  - Java + VueJS
-  - Revobet: **Multi-tenant** betting; features, auth, SaaS integrations; XP practices.
+  - Revobet: Multi-tenant betting, integration of features, auth, SaaS integrations, with XP practices, using **Java + VueJS**
 
 ##### **Scala Developer · GoPro** <span class="role-dates">2021 - 2023</span>
-  - Distributed processing in Scala on Spark; **reliability/perf; platform improvements**.
+  - Distributed processing using **Scala on Spark**; reliability/perf; platform improvements.
 
 ##### **Scala/Java Developer · Orange Services** <span class="role-dates">2017 - 2021</span>
-  - Large-scale data platforms (Scala/Java on Spark); scala + spark **framework creation**; **batch and streaming** processing; automation/ops.
+  - Large-scale data platforms using **Scala/Java on Spark**; framework creation; batch and streaming processing; automation/ops.
 
 ##### **Java Developer · Luxoft Romania** <span class="role-dates">2015 - 2017</span>
   - Hirschmann devices interface: HTML5 interface for devices (SNMP).
-  - Industrial HiVision: **network management** desktop app
+  - Industrial HiVision: network management desktop app using **Java**
 
 ##### **Scala Developer · Brainlight** <span class="role-dates">2014 - 2015</span> 
-  - Scala + PlayFramework (Scala)
-  - DarZar: e-commerce **crawling/ aggregation/ search/ advanced filtering**.
+  - DarZar: e-commerce **crawling/ aggregation/ search/ advanced filtering** using **Scala + PlayFramework (Scala)**
 
 </div>
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
 #### Education
-##### University of Bucharest, **Computer Sciences, Informatics** <span class="role-dates">2013 - 2015</span>
-##### National College High school “Alexandru Odobescu” Pitesti, **Computer Sciences** <span class="role-dates">2008 - 2012</span>
+###### **University of Bucharest, Computer Sciences, Informatics** <span class="role-dates">2013 - 2015</span>
+###### National College High school “Alexandru Odobescu” Pitesti, **Computer Sciences** <span class="role-dates">2008 - 2012</span>
 
 </div>
-
-<div class="print-avoid-split" markdown="1">
 
 ### Main Areas of Expertise
 
@@ -227,11 +222,11 @@ I’m building **music-related products** under Aperture Software:
   </div>
 
 </div>
-</div>
 
-<div class="cv-slab print-avoid-split" markdown="1">
 
 ### Self-Portrait
+  
+<div class="cv-slab print-avoid-split" markdown="1">
 
 <div class="table-wrap tb-right" markdown="1">
 
@@ -249,9 +244,15 @@ I’m building **music-related products** under Aperture Software:
 {: .cv-table}
 
 </div>
+</div>
+
+  <div class="cv-slab print-avoid-split" markdown="1">
 
 #### Interests
   **functional programming** (typed FP/OOP), **POCs** & rapid prototyping, **framework & API** design, product & system design, developer experience & performance, deterministic **algorithms** & data pipelines, **music-tech** (MIDI tools, audio analysis, playlist generation, DJ/musician tooling), integrations, testing discipline (**TDD**, property-based), refactoring & **clean code**, pair programming, programming language paradigms
+
+</div>
+  <div class="cv-slab print-avoid-split" markdown="1">
 
 ### Hobbies
   - **music**: playing instruments, composing, theory, programming, MIDI automation, sound engineering
@@ -259,13 +260,11 @@ I’m building **music-related products** under Aperture Software:
 
 </div>
 
-<div class="print-avoid-split" markdown="1">
-
 ## Detailed Experience
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
-### **Full Stack Developer · Aperture Software** <span class="role-dates">2025.May - present (0y5+)</span>
+### **Full Stack Developer · Aperture Software** <span class="role-dates">2025.May - present&nbsp;(0y5+)</span>
   **Amplify Music** - building a product that shows music-theory and audio features for the currently playing song, and creates collaborative, deterministic and controllable playlists for multiple users. 
     
   Integrates with Spotify and other streaming services; **for DJs**, provides an event dashboard to create a “party” with mood/filters (allowed/blocked genres, decade, favorite artists/tracks), invite via link/QR, and combine guest preferences into playlists in real time or for advance planning (e.g., weddings), **completely deterministic and transparent**
@@ -284,12 +283,11 @@ I’m building **music-related products** under Aperture Software:
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
-### **Backend Developer · Berrystack** <span class="role-dates">2024.January - 2025.April (1y4)</span>
+### **Backend Developer · Berrystack** <span class="role-dates">2024.January - 2025.April&nbsp;(1y4)</span>
   **Energy client** — led migration of data-processing workloads from Microsoft Synapse to Databricks to **cut costs and runtimes**; 
   
   **Designed and delivered a framework** to standardize Spark job authoring/optimization and engineering practices. 
-  
-  Acted as technical lead across framework implementation, performance tuning, coding standards, and knowledge transfer; wrote **Python in a Java/Scala style** (typed with type hints/mypy, OOP-first with FP patterns like pure functions/immutability/lambdas, explicit interfaces/contracts; **avoided** dynamic/duck-typing idioms).
+  Acted as technical lead across framework implementation, performance tuning, coding standards, and knowledge transfer; wrote **Python in a Java/Scala style** typed (mypy), OOP with FP (pure/immutable/lambdas), explicit contracts; no dynamic/duck-typing.
 
 <div class="table-wrap" markdown="1">
 
@@ -305,7 +303,7 @@ I’m building **music-related products** under Aperture Software:
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
-### **Full Stack Developer · Visual Hive** <span class="role-dates">2023.November – 2023.December (0y2)</span>
+### **Full Stack Developer · Visual Hive** <span class="role-dates">2023.November – 2023.December&nbsp;(0y2)</span>
   **Visual Hive** — built an app to generate social media short clips from long videos (e.g., **podcasts**).
   
   **User flow:** upload > Deepgram speech-to-text > transcript with phrase selection > export clips with subtitles in preset formats. 
@@ -326,7 +324,7 @@ I’m building **music-related products** under Aperture Software:
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
-### **Full Stack Developer · Revobet** <span class="role-dates">2023.March – 2023.October (0y8)</span>
+### **Full Stack Developer · Revobet** <span class="role-dates">2023.March – 2023.October&nbsp;(0y8)</span>
   **Revobet** - improved and added new features for multi-tenant betting platform — full-stack work across users/authorization, SaaS integrations, new features, services integration, and bug-fixing on both backend and frontend. 
   
   Operated in a highly agile/XP environment with focus on effective & clean code practices and structured learning, handled onboarding/training for newcomers.
@@ -345,10 +343,10 @@ I’m building **music-related products** under Aperture Software:
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
-### **Scala Developer · GoPro** <span class="role-dates">2021.September – 2023.March (1y6)</span>
+### **Scala Developer · GoPro** <span class="role-dates">2021.September – 2023.March&nbsp;(1y6)</span>
   **GoPro backend** - built and maintained data pipelines (with more advanced SQL than prior roles). Worked across Databricks, Docker, AWS, and Airflow. 
   
-  - Notable **pipelines** consumed Google Analytics to track cart abandonment and broader website engagement metrics. In **Scala**, implemented an end-to-end integration with the PagerDuty API that made escalation-policy changes safer and auditable: one repo per service and mandatory PR approval for any policy change.
+  Notable **pipelines** consumed Google Analytics to track cart abandonment and broader website engagement metrics. In **Scala**, implemented an end-to-end integration with the PagerDuty API that made escalation-policy changes safer and auditable: one repo per service and mandatory PR approval for any policy change.
 
 <div class="table-wrap" markdown="1">
 
@@ -364,12 +362,13 @@ I’m building **music-related products** under Aperture Software:
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
-### **Scala/Java Developer · Orange Services** <span class="role-dates">2017.November – 2021.September (3y11)</span>
+### **Scala/Java Developer · Orange Services** <span class="role-dates">2017.November – 2021.September&nbsp;(3y11)</span>
   **Telecom big-data platform** — implemented and evolved large-scale data ingestions using a newly built in-house framework, starting from raw mobile network events (2G/3G/4G/LTE) and growing to diverse sources/sinks and well-defined marketing/ML use cases.
 
   I worked in multiple different areas, including: framework major improvements, Spark implementation, resource management (YARN + Spark configs), pipeline definitions, scripting, platform configuration (Cloudera), Impala (AP) SQL for analysts during data discovery.
   Made sources/sinks **declarative** so teams implement only transformations + QA validation, standardized HDFS, Kafka, FTP/SFTP, Kudu (indexed NoSQL), JDBC; handled **non-standard I/O formats** requiring pre/post-processing (beyond **spark.load**); additional custom **cluster configurations**, automation, and cleanup scripting.
-  - **Rapid-response (COVID-19):** Delivered a **mobility/distancing analytics** use case (**GDPR-compliant**, hashing + limited encryption) in **5 days** (2 dev, 3 deploy/test/validate) with a two-engineer core team (plus partner teams); shipped subsequent similar use cases using the same framework speedups.
+  
+  **Rapid-response (COVID-19):** Delivered a **mobility/distancing analytics** use case (**GDPR-compliant**, hashing + limited encryption) in **5 days** (2 dev, 3 deploy/test/validate) with a two-engineer core team (plus partner teams); shipped subsequent similar use cases using the same framework speedups.
 
 <div class="table-wrap" markdown="1">
 
@@ -385,7 +384,7 @@ I’m building **music-related products** under Aperture Software:
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
-### **Java Developer · Luxoft Romania** <span class="role-dates">2015.November – 2017.November (2y1)</span>
+### **Java Developer · Luxoft Romania** <span class="role-dates">2015.November – 2017.November&nbsp;(2y1)</span>
   
 ##### HTML5 Web Interface for Hirschmann devices <span class="role-dates">0y4</span>
   Rewrote the legacy Java Applet web UI for industrial routers/switches to HTML5, implementing pages with an **internal framework** and contributing **improvements**.  
@@ -406,7 +405,7 @@ I’m building **music-related products** under Aperture Software:
 
 <div class="cv-slab print-avoid-split" markdown="1">
 
-### **Scala Developer · Brainlight** <span class="role-dates">2014.July – 2015.September (1y3)</span>
+### **Scala Developer · Brainlight** <span class="role-dates">2014.July – 2015.September&nbsp;(1y3)</span>
   **DarZar** — Worked **full-stack** across website UI, database management, and non-UI algorithms for a product crawler/ scraper/ extractor/ aggregation/ search across e-shops, enabling search/filtering and price-change alerts.
 
 <div class="table-wrap" markdown="1">
@@ -419,6 +418,4 @@ I’m building **music-related products** under Aperture Software:
 {: .cv-table}
 
 </div>
-</div>
-
 </div>
